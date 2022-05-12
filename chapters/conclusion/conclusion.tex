@@ -1,0 +1,83 @@
+
+\let\textcircled=\pgftextcircled
+\chapter{Conclusion}
+\label{chap:conclusion}
+
+\initial{T}his thesis has aimed to address questions regarding the structural and dynamical behaviour of mesoscale active matter in three-dimensions. Here we summarise the results of this work and explore avenues of further research with regards to both crystallisation and confinement within these systems.
+
+\section{Crystallisation and polymorph selection in active Brownian particles}
+
+Through molecular dynamics simulations, we considered the crystalline behaviour of spherical active Brownian particles with a hard sphere like interaction. In agreement with previous work \cite{wysocki2014,omar2021a}, we found that the freezing line is strongly affected by activity, moving to higher densities as a function of increasing $\pecl$. While other work has addressed the phase diagram of active Brownian particles with regards to MIPS in two and three dimensions \cite{digregorio2018,omar2021a}, here we distinguished the regimes of two crystallisation methods: nucleation and growth and spinodal crystallisation. The former refers to a rare event wherein a crystal grows from a single critical nucleus, the latter is characterised by multiple nucleation events followed by rapid phase change.
+In the nucleation and growth regime we find that activity acts to inhibit crystallisation: an increase in $\pecl$ is accompanied by a reduction in both the crystal nucleation rate and the critical nucleus size. Despite the suppression of nucleation, the growth of nuclei is enhanced by the accelerated dynamics of the melt. This allows us to observe spinodal nucleation, where the growth is controlled by the rate of particle attachment, and thus is accelerated with activity.
+
+Remarkably, we find that activity also has a strong effect on polymorph selection. Unlike the case for passive hard sphere systems, where preference for FCC over HCP is weak \cite{woodcock1997,pronk1999}, we find that crystals of active particles increasingly favour the FCC structure at higher $\pecl$. This is explained by the annealing of HCP stacking faults in favour of FCC environments and promoted by the persistent motion of the active particles. Furthermore, this change of polymorphic behaviour coincides with a change in the crystallisation channel from spinodal nucleation to the nucleation-and-growth regime, where crystals forming via nucleation and growth proceed with fewer grain boundaries and the polymorph composition trends towards the passive value.
+
+In addition to the above, we observed a decrease in pair and higher-order structure in a dense fluid with increasing activity. The decrease in two-body structure is coherent with other works \cite{janssen2019,szamel2015,berthier2017}, while the later is in contrast with a previous work in a similar system \cite{dougan2016}, however there is reason to believe these two systems are in different regimes. 
+
+
+%\subsection{Outlook}
+
+\section{Active Brownian spheres in random and porous environments}
+
+Active Brownian particles exhibit rich dynamical behaviours in bulk suspensions and on disordered landscapes. In the work comprising chapter \ref{chap:confinement}, we aimed to explore whether these behaviours persist in three-dimensional complex environments by conducting molecular dynamics simulations of active Brownian spheres in constricted random environments at high densities. We considered two environments comprised of quenched disordered particle configurations with differing static properties: pinned particles, chosen randomly from an equilibrium fluid; and a porous network modelled on a colloidal gel. Both environments were constructed to have the same free volume available to the mobile particles, thus allowing a direct comparison of the effects of the static lengthscale of the confinement on the behaviour of active particles. In addition to the two random environments, a bulk system at equal density was studied as a reference.
+
+At low Péclet numbers we explored the phase behaviour and structural relaxation of active particles in the three systems. In chapter \ref{chap:crystal} we found the activity inhibits crystal nucleation in bulk systems, here we found that the influence of random pinning suppresses the crystallisation of the fluid at densities well above the freezing line in the bulk. The inclusion of both the gel and the random pinning had the effect of slowing the relaxation time, an effect that was more significant in the random pinning system. Furthermore, the inclusion of the quenched disorder leads to more dynamically heterogeneous motion than the bulk at $\pecl$ numbers before the onset of MIPS.
+
+At intermediate Pe the bulk system undergoes MIPS, where the system forms domains of high density/slow regions and low density/fast regions that nucleate and grow in a similar manner to the equilibrium phase separation of two disordered phases. Perhaps surprisingly, we find that the obstacles do not suppress MIPS formation, and actually act to stabilise the condensed phase. Phase separation in the system of randomly pinned obstacles displays a very similar phase-separation pattern to the bulk case, but with an important difference:  the dense domains do not appear homogeneously in the system, and instead are always formed from the same regions of the sample. The mechanism through which this quenched disorder influences the nucleation of the dense MIPS phase remains unknown and should be addressed in future works. In the gel system, the MIPS domains occur over a completely different lengthscale, and form a bicontinuous network wherein the gel structure determines the local motility.
+
+Finally we considered how local structure is perturbed by the activity, and revealed that re-entrant MIPS behaviour is suppressed (or moved to higher Pe) by the random environments. In particular the gel environment seems to be the most effective in stabilising the density and activity fluctuations. In this case, we attributed this behaviour to the absorption at the rough walls, where the persistent motion of active particles creates localised and highly dense regions, which in turn frees space inside the pores that increase particle transport in the system.
+
+
+
+\section{Real-space analysis of active colloids in a complex environment}
+
+The transport of active particles, both biological microswimmers and synthetic particles, occurs in complex environments. In previous chapters we have seen that the dynamics of active Brownian particles in complex environments are dramatically different from the bulk. In chapter \ref{chap:expSystem}, we explored the confinement of active colloids in an experimental system, aiming to observe active Brownian particles in porous media in both real-time and three-dimensions.
+For the active particles we use metallodielectric Janus particles propelled via induced-charge electrophoresis in an external field. As a result of the asymmetric design of these particles, their propulsion acts in the plane that is orthogonal to the external field. The motion of particles in this plane is similar to that of active Brownian particles where the particles move at constant speed in a direction that is subject to rotational diffusion. 
+
+For the porous media we developed a novel methodology to create a stable branching colloidal network. This was conducted through a three step process: first a colloidal gel was assembled as a result of polymer induced depletion; this colloidal gel was then sintered through secondary growth of colloidal material, such that the colloids were materially joined together; then the polymer was removed with microfluidics leaving a continuous colloidal network surrounded by a polymer-free solvent.
+With a further use of microfluidics, we demonstrated that Janus particles can be injected and suspended in a solvent around the porous colloidal network. This system was then connected to a circuit and exposed to an ac electric field and the subsequent active dynamics were imaged with confocal microscopy. 
+
+Through a combination of particle tracking methods, the coordinates of the Janus particles were extracted from the microscopy data. We found that without the field, the Brownian particles exhibited diffusive dynamics with a diffusion coefficient that was slightly lower than the predicted value, which was most likely as result of the confinement. 
+The mean square displacement (MSD) of the Janus particles was calculated at two field strengths. In agreement with previous works, we observed in increase in particle velocity as a function of increased field strength \cite{gangwal2008,sakai2020}. Furthermore, the ballistic and effective diffusive regimes characteristic of active Brownian particles were clearly presented in the MSD. Particle tracking also acted to provide structural information of the colloidal gel network that provides the complex environments within which the active dynamics are situated.
+
+
+\textit{Outlook ---} Considering the above and the work comprising chapter \ref{chap:expSystem}, it  should be clear that this system holds great potential for new and exciting discoveries in this field. The work done so far has been significant in proving that such a system is possible within laboratory experiment, however there are many more questions that could be addressed. In chapter \ref{chap:expSystem}, we detailed several possible continuations of this work that could be undertaken, here we outline method that could be applied to link the modelling work of chapter  \ref{chap:confinement} with the experimental work of chapter \ref{chap:expSystem}.
+
+In the sample cell used in experiments, the electric field acts in the vertical plane ($z$), driving active propulsion of Janus particles in the orthogonal plane ($xy$). Therefore, the equations of motion governing active Brownian particles could be reflected to produce this behaviour:
+
+\begin{equation}
+\begin{aligned}
+	\dot{x} = v_p cos\theta + \sqrt{2D_{T}}\xi_{x}, \\  
+	\dot{y} = v_psin\theta + \sqrt{2D_{T}}\xi_{y}, \\ 
+	\dot{z} = \sqrt{2D_{T}}\xi_{z},
+\end{aligned}	
+\end{equation}
+
+\begin{equation}
+\dot{\theta} = \sqrt[]{2D_{R}}\xi_{\theta},
+\end{equation}
+
+\noindent where a constant propulsion velocity $v_p$ acts only in the $xy$ plane, and in a direction defined by $\theta$. Here the various $\xi$ each correspond to individual Gaussian white noise variables where $\langle \xi \rangle = 0$. At low electric field strengths these particles would interact as hard spheres and so the model could use the WCA interaction as before. To investigate dipolar phase behaviour, one could follow Hynninen \etal \cite{hynninen2005} where homogeneous dielectric colloids in an external field were modelled with a dipole-dipole interaction:
+
+\begin{equation}
+\beta U_{\mathrm{dip}}\left(\mathbf{r}_{i j}\right)=\frac{\gamma}{2}\left(\frac{\sigma}{r_{i j}}\right)^{3}\left(1-3 \cos ^{2} \varphi_{i j}\right),
+\end{equation}
+
+\noindent where $\mathbf{r}_{ij}$ is the vector between particles $i$ and $j$, and $\varphi_{ij}$ is the angle that $\mathbf{r}_{ij}$ forms with the $z$-axis. The information regarding the dipole moment is contained in the dimensionless prefactor $\gamma$, which takes the form: $\gamma = \mathbf{p}^{2} / 2 \pi \epsilon_{s} \sigma^{3} k_{B} T$, where $\mathbf{p}$ is the dipole moment induced by the external field and $\epsilon_s$ is the dielectric constant if the surrounding solvent. 
+
+This model, along with the model gel structures used in chapter \ref{chap:confinement}, could allow one to cover the full phase space of the experimental system. If further measurements were taken of the experimental system at different densities and field strengths, a comparison of the measured dynamics with that of the model system could lead to profound insights into the nature of the dynamics. Addressing questions such as to the extent to which hydrodynamics may play a role, since they are not included in the simulations. 
+
+
+
+
+\section{General conclusion}
+
+In this thesis we have addressed some outstanding questions within the under-developed research area regarding mesoscale active matter systems in three-dimensions. To this aim we have undertaken three complementary projects within this brief: the first being an investigation into the crystalline regimes of active Brownian spheres, wherein we observed activity-dependant nucleation mechanisms and a preference for the FCC polymorph in a departure from equilibrium phenomena. The latter two projects tackled the same question from two disciplines: How does Brownian active matter behave in non-trivial confinement in three-dimensions? With molecular dynamics simulations we found that the confinement increases the heterogeneity of the dynamics, and that this heterogeneity has a profound impact on the MIPS exhibited by the particles at high activity, ranging from a standard nucleation and growth in random disorder to a bicontinuous phase separation in porous environments. In the experimental section of this thesis, we presented results to date from the observation of active Janus particles within the porous network surrounding a colloidal gel. Herein we found trapping of active particles over various timescales at the gel surface as well as more complex alignment and hydrodynamical interactions at high field strengths.
+
+As a collective, this body of work has aimed to further our fundamental understanding of the exciting and ever-growing field of active matter.
+
+
+
+
+
+
