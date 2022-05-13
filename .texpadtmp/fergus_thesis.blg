@@ -1,0 +1,63 @@
+This is BibTeX, Version 0.99d (TeX Live 2020)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: /Users/fergusmoore/Documents/GitHub/PhD_Thesis/.texpadtmp/fergus_thesis.aux
+The style file: siam.bst
+Reallocated field_info (elt_size=4) to 11095 items from 5000.
+Database file #1: ../fergusThesis.bib
+Repeated entry---line 3129 of file ../fergusThesis.bib
+ : @article{reichhardt2017
+ :                        ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in hutmacher2000
+Warning--empty journal in paddock1999
+Warning--empty journal in purcell2016
+Warning--empty journal in reynolds1987
+Warning--empty year in reynolds1987
+Warning--empty journal in sastry2001
+Warning--empty journal in torquato
+Warning--empty year in torquato
+Warning--empty journal in wales1997
+Warning--empty year in wales1997
+Warning--empty journal in zhang2017
+You've used 265 entries,
+            2030 wiz_defined-function locations,
+            1788 strings with 47808 characters,
+and the built_in function-call counts, 108624 in all, are:
+= -- 10878
+> -- 5259
+< -- 0
++ -- 2080
+- -- 1800
+* -- 8195
+:= -- 16137
+add.period$ -- 266
+call.type$ -- 265
+change.case$ -- 1695
+chr.to.int$ -- 0
+cite$ -- 276
+duplicate$ -- 5272
+empty$ -- 6732
+format.name$ -- 1800
+if$ -- 23682
+int.to.chr$ -- 0
+int.to.str$ -- 265
+missing$ -- 266
+newline$ -- 799
+num.names$ -- 529
+pop$ -- 1377
+preamble$ -- 1
+purify$ -- 1433
+quote$ -- 0
+skip$ -- 5285
+stack$ -- 0
+substring$ -- 6748
+swap$ -- 2881
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1054
+warning$ -- 11
+while$ -- 1007
+width$ -- 268
+write$ -- 2363
+(There was 1 error message)

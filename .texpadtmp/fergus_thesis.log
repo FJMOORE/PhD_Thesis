@@ -1,0 +1,2404 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2021.2.15)  13 MAY 2022 10:45
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**fergus_thesis.tex
+(./fergus_thesis.tex
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (/usr/local/texlive/2020/texmf-dist/tex/latex/nag/nag.sty
+Package: nag 2011/11/25 0.7 warning about old commands (ulmi)
+\c@nag@c=\count167
+\c@nag@sins=\count168
+Package nag Info: Loaded nag-l2tabu.cfg  on input line 552.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/nag/nag-l2tabu.cfg
+File: nag-l2tabu.cfg 2010/05/17 v2.11 l2tabu rules for nag.sty (ulmi)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/memoir/memoir.cls
+Document Class: memoir 2020/03/25 v3.7k configurable book, report, article document class
+\onelineskip=\skip47
+\lxvchars=\skip48
+\xlvchars=\skip49
+\@memcnta=\count169
+\c@@memmarkcntra=\count170
+LaTeX Info: Redefining \InputIfFileExists on input line 140.
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+\stockheight=\skip50
+\stockwidth=\skip51
+\trimtop=\skip52
+\trimedge=\skip53
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/leqno.clo
+File: leqno.clo 2016/12/29 v1.2b Standard LaTeX option (left equation numbers)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/memoir/mem11.clo
+File: mem11.clo 2008/01/30 v0.3 memoir class 11pt size option
+)
+\binding=\skip54
+\spinemargin=\skip55
+\foremargin=\skip56
+\uppermargin=\skip57
+\lowermargin=\skip58
+\headdrop=\skip59
+\normalrulethickness=\skip60
+\mem@maxheadheight=\skip61
+\mem@maxfootheight=\skip62
+\headwidth=\skip63
+\c@storedpagenumber=\count171
+\memPD=\dimen134
+\m@mabparskip=\skip64
+\thanksmarkwidth=\skip65
+\thanksmarksep=\skip66
+\droptitle=\skip67
+\c@book=\count172
+\c@part=\count173
+\c@chapter=\count174
+\c@section=\count175
+\c@subsection=\count176
+\c@subsubsection=\count177
+\c@paragraph=\count178
+\c@subparagraph=\count179
+\beforechapskip=\skip68
+\midchapskip=\skip69
+\afterchapskip=\skip70
+\chapindent=\skip71
+\bottomsectionskip=\skip72
+\secindent=\skip73
+\beforesecskip=\skip74
+\aftersecskip=\skip75
+\subsecindent=\skip76
+\beforesubsecskip=\skip77
+\aftersubsecskip=\skip78
+\subsubsecindent=\skip79
+\beforesubsubsecskip=\skip80
+\aftersubsubsecskip=\skip81
+\paraindent=\skip82
+\beforeparaskip=\skip83
+\afterparaskip=\skip84
+\subparaindent=\skip85
+\beforesubparaskip=\skip86
+\aftersubparaskip=\skip87
+\pfbreakskip=\skip88
+\c@@ppsavesec=\count180
+\c@@ppsaveapp=\count181
+\ragrparindent=\dimen135
+\everylistparindent=\dimen136
+\parsepi=\skip89
+\topsepi=\skip90
+\itemsepi=\skip91
+\parsepii=\skip92
+\topsepii=\skip93
+\topsepiii=\skip94
+\itemsepii=\skip95
+\itemsepiii=\skip96
+\partopsepii=\skip97
+\partopsepiii=\skip98
+\m@msavetopsep=\skip99
+\m@msavepartopsep=\skip100
+\@enLab=\toks15
+\abstitleskip=\skip101
+\absleftindent=\skip102
+\abs@leftindent=\dimen137
+\absrightindent=\skip103
+\absparindent=\skip104
+\absparsep=\skip105
+\c@vslineno=\count182
+\c@poemline=\count183
+\c@modulo@vs=\count184
+\c@memfvsline=\count185
+\vleftskip=\skip106
+\vrightskip=\skip107
+\stanzaskip=\skip108
+\versewidth=\skip109
+\vgap=\skip110
+\vindent=\skip111
+\vleftmargin=\dimen138
+\c@verse=\count186
+\c@chrsinstr=\count187
+\beforepoemtitleskip=\skip112
+\afterpoemtitleskip=\skip113
+\c@poem=\count188
+\beforePoemTitleskip=\skip114
+\midPoemTitleskip=\skip115
+\afterPoemTitleskip=\skip116
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen139
+\ar@mcellbox=\box45
+\extrarowheight=\dimen140
+\NC@list=\toks16
+\extratabsurround=\skip117
+\backup@length=\skip118
+\ar@cellbox=\box46
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/dcolumn.sty
+Package: dcolumn 2014/10/28 v1.06 decimal alignment package (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/delarray.sty
+Package: delarray 2014/10/28 v1.01 array delimiter package (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+\TX@col@width=\dimen141
+\TX@old@table=\dimen142
+\TX@old@col=\dimen143
+\TX@target=\dimen144
+\TX@delta=\dimen145
+\TX@cols=\count189
+\TX@ftn=\toks17
+)
+\heavyrulewidth=\dimen146
+\lightrulewidth=\dimen147
+\cmidrulewidth=\dimen148
+\belowrulesep=\dimen149
+\belowbottomsep=\dimen150
+\aboverulesep=\dimen151
+\abovetopsep=\dimen152
+\cmidrulesep=\dimen153
+\cmidrulekern=\dimen154
+\defaultaddspace=\dimen155
+\@cmidla=\count190
+\@cmidlb=\count191
+\@aboverulesep=\dimen156
+\@belowrulesep=\dimen157
+\@thisruleclass=\count192
+\@lastruleclass=\count193
+\@thisrulewidth=\dimen158
+\ctableftskip=\skip119
+\ctabrightskip=\skip120
+\abovecolumnspenalty=\count194
+\@linestogo=\count195
+\@cellstogo=\count196
+\@cellsincolumn=\count197
+\crtok=\toks18
+\@mincolumnwidth=\dimen159
+\c@newflo@tctr=\count198
+\mem@margin@floatbox=\box47
+\@contcwidth=\skip121
+\@contindw=\skip122
+\abovecaptionskip=\skip123
+\belowcaptionskip=\skip124
+\subfloattopskip=\skip125
+\subfloatcapskip=\skip126
+\subfloatcaptopadj=\skip127
+\subfloatbottomskip=\skip128
+\subfloatlabelskip=\skip129
+\subfloatcapmargin=\dimen160
+\c@@contsubnum=\count199
+\m@mscap@capbox=\box48
+\m@mscap@fbox=\box49
+\sidecapsep=\dimen161
+\sidecapwidth=\dimen162
+\m@m@tempdima=\dimen163
+\m@mscapraise=\dimen164
+\sidecapraise=\dimen165
+\m@mscapmainwidth=\dimen166
+\m@mscaplkern=\dimen167
+\beforeepigraphskip=\skip130
+\afterepigraphskip=\skip131
+\epigraphwidth=\skip132
+\epigraphrule=\skip133
+LaTeX Info: Redefining \em on input line 7664.
+LaTeX Info: Redefining \emph on input line 7672.
+\tocentryskip=\skip134
+\tocbaseline=\skip135
+\cftparskip=\skip136
+\cftbeforebookskip=\skip137
+\cftbookindent=\dimen168
+\cftbooknumwidth=\dimen169
+\cftbeforepartskip=\skip138
+\cftpartindent=\skip139
+\cftpartnumwidth=\skip140
+\cftbeforechapterskip=\skip141
+\cftchapterindent=\skip142
+\cftchapternumwidth=\skip143
+\cftbeforesectionskip=\skip144
+\cftsectionindent=\skip145
+\cftsectionnumwidth=\skip146
+\cftbeforesubsectionskip=\skip147
+\cftsubsectionindent=\skip148
+\cftsubsectionnumwidth=\skip149
+\cftbeforesubsubsectionskip=\skip150
+\cftsubsubsectionindent=\skip151
+\cftsubsubsectionnumwidth=\skip152
+\cftbeforeparagraphskip=\skip153
+\cftparagraphindent=\skip154
+\cftparagraphnumwidth=\skip155
+\cftbeforesubparagraphskip=\skip156
+\cftsubparagraphindent=\skip157
+\cftsubparagraphnumwidth=\skip158
+\prechapterprecisshift=\dimen170
+\c@maxsecnumdepth=\count266
+\bibindent=\dimen171
+\bibitemsep=\skip159
+\indexcolsep=\skip160
+\indexrule=\skip161
+\indexmarkstyle=\toks19
+\@indexbox=\insert252
+\glossarycolsep=\dimen172
+\glossaryrule=\dimen173
+\sideparvshift=\skip162
+\sideins=\insert251
+\sidebartopsep=\skip163
+\sidebarhsep=\skip164
+\sidebarvsep=\skip165
+\sidebarwidth=\skip166
+\footmarkwidth=\skip167
+\footmarksep=\skip168
+\footparindent=\skip169
+\footinsdim=\skip170
+\footinsv@r=\insert250
+\@mpfootinsv@r=\insert249
+\m@m@k=\count267
+\m@m@h=\dimen174
+\m@mipn@skip=\skip171
+\sidefootins=\insert248
+\sidefootadjust=\skip172
+\sidefootheight=\skip173
+\sidefoothsep=\skip174
+\sidefootvsep=\skip175
+\sidefootwidth=\skip176
+\m@mdownsf=\skip177
+\c@sidefootnote=\count268
+\sidefootmarkwidth=\skip178
+\sidefootmarksep=\skip179
+\sidefootparindent=\skip180
+\c@pagenote=\count269
+\c@pagenoteshadow=\count270
+\mem@pn@lastkern=\skip181
+\every@verbatim=\toks20
+\afterevery@verbatim=\toks21
+\verbatim@line=\toks22
+\tab@position=\count271
+\verbatim@in@stream=\read2
+\verbatimindent=\skip182
+\verbatim@out=\write3
+\bvboxsep=\skip183
+\c@memfbvline=\count272
+\c@bvlinectr=\count273
+\bvnumlength=\skip184
+\fb@frw=\dimen175
+\fb@frh=\dimen176
+\FrameRule=\dimen177
+\FrameSep=\dimen178
+\c@cp@cntr=\count274
+LaTeX Info: Redefining \: on input line 12191.
+LaTeX Info: Redefining \! on input line 12193.
+\c@ism@mctr=\count275
+\c@xsm@mctr=\count276
+\c@csm@mctr=\count277
+\c@ksm@mctr=\count278
+\c@xksm@mctr=\count279
+\c@cksm@mctr=\count280
+\c@msm@mctr=\count281
+\c@xmsm@mctr=\count282
+\c@cmsm@mctr=\count283
+\c@bsm@mctr=\count284
+\c@workm@mctr=\count285
+\c@sheetsequence=\count286
+\c@lastsheet=\count287
+\c@lastpage=\count288
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2019/09/14 v1.00 Text only upper/lower case changing (DPC)
+)
+\c@figure=\count289
+\c@lofdepth=\count290
+\cftbeforefigureskip=\skip185
+\cftfigureindent=\skip186
+\cftfigurenumwidth=\skip187
+\c@table=\count291
+\c@lotdepth=\count292
+\cftbeforetableskip=\skip188
+\cfttableindent=\skip189
+\cfttablenumwidth=\skip190
+Package abstract [2008/07/23] emulated by memoir.
+Package appendix [2008/07/23] emulated by memoir.
+Package booktabs [2016/05/16] emulated by memoir.
+Package ccaption [2008/07/23] emulated by memoir.
+Package changepage [2008/07/23] emulated by memoir.
+Package chngcntr [2008/07/23] emulated by memoir.
+Package chngpage [2008/07/23] emulated by memoir.
+Package crop emulated by memoir.
+Package enumerate [2008/07/23] emulated by memoir.
+Package epigraph [2008/07/23] emulated by memoir.
+Package ifmtarg [2008/07/23] emulated by memoir.
+Package index [2008/07/23] emulated by memoir.
+Package makeidx [2008/07/23] emulated by memoir.
+Package moreverb [2008/07/23] emulated by memoir.
+Package mparhack [2008/07/23] emulated by memoir.
+Package needspace [2008/07/23] emulated by memoir.
+Package newfile [2008/07/23] emulated by memoir.
+Package nextpage [2008/07/23] emulated by memoir.
+Package pagenote [2008/07/23] emulated by memoir.
+Package parskip [2008/07/23] emulated by memoir.
+Package patchcmd [2008/07/23] emulated by memoir.
+Package setspace [2008/07/23] emulated by memoir.
+Package shortvrb [2008/07/23] emulated by memoir.
+Package showidx [2008/07/23] emulated by memoir.
+Package titleref [2008/07/23] emulated by memoir.
+Package titling [2008/07/23] emulated by memoir.
+Package tocbibind [2008/07/23] emulated by memoir.
+Package tocloft [2008/07/23] emulated by memoir.
+Package tocvsec2 [2008/07/23] emulated by memoir.
+Package verbatim [2008/07/23] emulated by memoir.
+Package verse [2008/07/23] emulated by memoir.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/datetime/datetime.sty
+Package: datetime 2015/03/20 v2.60 Date Time Package
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count293
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/fmtcount/fmtcount.sty
+Package: fmtcount 2020/01/30 v3.07
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkeyval.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks23
+\XKV@tempa@toks=\toks24
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/xkeyval/keyval.tex))
+\XKV@depth=\count294
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/fmtcount/fcprefix.sty
+Package: fcprefix 2012/09/28
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fmtcount/fcnumparser.sty
+Package: fcnumparser 2017/06/15
+\fc@digit@counter=\count295
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks25
+\ex@=\dimen179
+)
+\c@padzeroesN=\count296
+\fc@tmpcatcode=\count297
+\@DT@modctr=\count298
+\@ordinalctr=\count299
+\@orgargctr=\count300
+\@strctr=\count301
+\@tmpstrctr=\count302
+\@DT@loopN=\count303
+\@DT@X=\count304
+
+
+Package fmtcount Warning: \ordinal already defined use \FCordinal instead. on input line 466.
+
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/datetime/datetime-defaults.sty
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count305
+\@month=\count306
+\@year=\count307
+\c@HOUR=\count308
+\c@HOURXII=\count309
+\c@MINUTE=\count310
+\c@TOHOUR=\count311
+\c@TOMINUTE=\count312
+\c@SECOND=\count313
+\currenthour=\count314
+\currentminute=\count315
+\currentsecond=\count316
+Package datetime Info: No datetime.cfg file found, using default settings on input line 308.
+\@dtctr=\count317
+\dayofyear=\count318
+\dayofweek=\count319
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks26
+\dt@b=\toks27
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+\c@subfigure=\count320
+\cftbeforesubfigureskip=\skip191
+\cftsubfigureindent=\skip192
+\cftsubfigurenumwidth=\skip193
+\c@subtable=\count321
+\cftbeforesubtableskip=\skip194
+\cftsubtableindent=\skip195
+\cftsubtablenumwidth=\skip196
+
+
+******************************************************
+Stock height and width: 845.04684pt by 597.50787pt
+Top and edge trims: 0pt and 0pt
+Page height and width: 845.04684pt by 597.50787pt
+Text height and width: 636.60028pt by 448pt
+Spine and edge margins: 59.73816pt and 89.63971pt
+Upper and lower margins: 113.81102pt and 94.63554pt
+Headheight and headsep: 13.6pt and 27.20001pt
+Footskip: 27.20001pt
+Columnsep and columnseprule: 10pt and 0pt
+Marginparsep and marginparwidth: 17pt and 51pt
+Sidecapsep and sidecapwidth: 7pt and 101pt
+Sidebarhsep and sidebarwidth: 7pt and 101pt
+Sidebarvsep and sidebartopsep: 13.6pt and 0pt
+Sidebarheight: 594.32022pt
+Sidefoothsep and sidefootwidth: 7pt and 101pt
+Sidefootvsep and sidefootheight: 13.6pt and 594.32022pt
+******************************************************
+
+(/usr/local/texlive/2020/texmf-dist/tex/latex/fouriernc/fouriernc.sty
+Package: fouriernc 2005/12/20 1.0 fouriernc package
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fourier/fourier.sty
+Package: fourier 2020/03/03 2.2 fourier-GUTenberg package
+Now handling font encoding FML ...
+... no UTF-8 mapping file for font encoding FML
+Now handling font encoding FMS ...
+... no UTF-8 mapping file for font encoding FMS
+Now handling font encoding FMX ...
+... no UTF-8 mapping file for font encoding FMX
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+futs on input line 112.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fourier/t1futs.fd
+File: t1futs.fd 2004/03/02 Fontinst v1.926 font definitions for T1/futs.
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2020/02/02 v2.0n Standard LaTeX package
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/fourier/fourier-orns.sty
+Package: fourier-orns 2020/03/03 2.2 fourier-ornaments package
+)
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 63.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `normal' on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> T1/futs/m/n on input line 63.
+LaTeX Font Info:    Encoding `OT1' has changed to `T1' for symbol font
+(Font)              `operators' in the math version `bold' on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/futs/m/n on input line 63.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/futs/m/n --> T1/futs/b/n on input line 64.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 72.
+LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
+(Font)              `letters' in the math version `normal' on input line 72.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> FML/futmi/m/it on input line 72.
+LaTeX Font Info:    Encoding `OML' has changed to `FML' for symbol font
+(Font)              `letters' in the math version `bold' on input line 72.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> FML/futmi/m/it on input line 72.
+\symotherletters=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  FML/futmi/m/it --> FML/futmi/b/it on input line 74.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `bold'
+(Font)                  FML/futm/m/it --> FML/futm/b/it on input line 75.
+LaTeX Font Info:    Redeclaring math symbol \Gamma on input line 76.
+LaTeX Font Info:    Redeclaring math symbol \Delta on input line 77.
+LaTeX Font Info:    Redeclaring math symbol \Theta on input line 78.
+LaTeX Font Info:    Redeclaring math symbol \Lambda on input line 79.
+LaTeX Font Info:    Redeclaring math symbol \Xi on input line 80.
+LaTeX Font Info:    Redeclaring math symbol \Pi on input line 81.
+LaTeX Font Info:    Redeclaring math symbol \Sigma on input line 82.
+LaTeX Font Info:    Redeclaring math symbol \Upsilon on input line 83.
+LaTeX Font Info:    Redeclaring math symbol \Phi on input line 84.
+LaTeX Font Info:    Redeclaring math symbol \Psi on input line 85.
+LaTeX Font Info:    Redeclaring math symbol \Omega on input line 86.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 126.
+LaTeX Font Info:    Encoding `OMS' has changed to `FMS' for symbol font
+(Font)              `symbols' in the math version `normal' on input line 126.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> FMS/futm/m/n on input line 126.
+LaTeX Font Info:    Encoding `OMS' has changed to `FMS' for symbol font
+(Font)              `symbols' in the math version `bold' on input line 126.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> FMS/futm/m/n on input line 126.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 127.
+LaTeX Font Info:    Encoding `OMX' has changed to `FMX' for symbol font
+(Font)              `largesymbols' in the math version `normal' on input line 127.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> FMX/futm/m/n on input line 127.
+LaTeX Font Info:    Encoding `OMX' has changed to `FMX' for symbol font
+(Font)              `largesymbols' in the math version `bold' on input line 127.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> FMX/futm/m/n on input line 127.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 128.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> T1/futs/bx/n on input line 128.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> T1/futs/bx/n on input line 128.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 129.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 130.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> T1/futs/m/it on input line 130.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> T1/futs/m/it on input line 130.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 131.
+LaTeX Font Info:    Redeclaring math symbol \parallel on input line 147.
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 161.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 199.
+LaTeX Font Info:    Redeclaring math symbol \varvarrho on input line 200.
+LaTeX Font Info:    Redeclaring math delimiter \Vert on input line 223.
+LaTeX Font Info:    Redeclaring math delimiter \vert on input line 228.
+LaTeX Font Info:    Redeclaring math delimiter \Downarrow on input line 238.
+LaTeX Font Info:    Redeclaring math delimiter \backslash on input line 240.
+LaTeX Font Info:    Redeclaring math delimiter \rangle on input line 242.
+LaTeX Font Info:    Redeclaring math delimiter \langle on input line 244.
+LaTeX Font Info:    Redeclaring math delimiter \rbrace on input line 246.
+LaTeX Font Info:    Redeclaring math delimiter \lbrace on input line 248.
+LaTeX Font Info:    Redeclaring math delimiter \rceil on input line 250.
+LaTeX Font Info:    Redeclaring math delimiter \lceil on input line 252.
+LaTeX Font Info:    Redeclaring math delimiter \rfloor on input line 254.
+LaTeX Font Info:    Redeclaring math delimiter \lfloor on input line 256.
+LaTeX Font Info:    Redeclaring math accent \acute on input line 260.
+LaTeX Font Info:    Redeclaring math accent \grave on input line 261.
+LaTeX Font Info:    Redeclaring math accent \ddot on input line 262.
+LaTeX Font Info:    Redeclaring math accent \tilde on input line 263.
+LaTeX Font Info:    Redeclaring math accent \bar on input line 264.
+LaTeX Font Info:    Redeclaring math accent \breve on input line 265.
+LaTeX Font Info:    Redeclaring math accent \check on input line 266.
+LaTeX Font Info:    Redeclaring math accent \hat on input line 267.
+LaTeX Font Info:    Redeclaring math accent \dot on input line 268.
+LaTeX Font Info:    Redeclaring math accent \mathring on input line 269.
+\symUfutm=\mathgroup5
+)
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 16.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  FML/futmi/m/it --> FML/fncmi/m/it on input line 16.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  FML/futmi/b/it --> FML/fncmi/m/it on input line 16.
+LaTeX Font Info:    Redeclaring symbol font `otherletters' on input line 17.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `normal'
+(Font)                  FML/futm/m/it --> FML/fncm/m/it on input line 17.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `bold'
+(Font)                  FML/futm/b/it --> FML/fncm/m/it on input line 17.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  FML/fncmi/m/it --> FML/fncmi/b/it on input line 18.
+LaTeX Font Info:    Overwriting symbol font `otherletters' in version `bold'
+(Font)                  FML/fncm/m/it --> FML/fncm/b/it on input line 19.
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 32.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  T1/futs/m/n --> T1/fnc/m/n on input line 32.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/futs/b/n --> T1/fnc/m/n on input line 32.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  T1/fnc/m/n --> T1/fnc/b/n on input line 33.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 34.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  FMS/futm/m/n --> FMS/fncm/m/n on input line 34.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  FMS/futm/m/n --> FMS/fncm/m/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  T1/futs/bx/n --> T1/fnc/b/n on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  T1/futs/bx/n --> T1/fnc/b/n on input line 35.
+LaTeX Font Info:    Redeclaring math alphabet \mathrm on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
+(Font)                  T1/futs/m/n --> T1/fnc/m/n on input line 36.
+LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
+(Font)                  T1/futs/m/n --> T1/fnc/m/n on input line 36.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  T1/futs/m/it --> T1/fnc/m/it on input line 37.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  T1/futs/m/it --> T1/fnc/m/it on input line 37.
+LaTeX Font Info:    Redeclaring math alphabet \mathcal on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `normal'
+(Font)                  FMS/futm/m/n --> FMS/fncm/m/n on input line 38.
+LaTeX Font Info:    Overwriting math alphabet `\mathcal' in version `bold'
+(Font)                  FMS/futm/m/n --> FMS/fncm/m/n on input line 38.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+fnc on input line 112.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fouriernc/t1fnc.fd
+File: t1fnc.fd 2005/12/13 scaled font definitions for T1/fnc.
+)
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 10.18341pt on input line 112.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count322
+\calc@Bcount=\count323
+\calc@Adimen=\dimen180
+\calc@Bdimen=\dimen181
+\calc@Askip=\skip197
+\calc@Bskip=\skip198
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count324
+\calc@Cskip=\skip199
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/soul/soul.sty
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks28
+\SOUL@lasttoken=\toks29
+\SOUL@cmds=\toks30
+\SOUL@buffer=\toks31
+\SOUL@token=\toks32
+\SOUL@spaceskip=\skip256
+\SOUL@ttwidth=\dimen182
+\SOUL@uldp=\dimen183
+\SOUL@ulht=\dimen184
+)
+\dlf@normtxtw=\skip257
+\feline@chapter=\box50
+\fergus_thesis@idxfile=\write4
+\openout4 = `fergus_thesis.idx'.
+
+
+Writing index file fergus_thesis.idx 
+(/usr/local/texlive/2020/texmf-dist/tex/latex/import/import.sty
+Package: import 2020/01/22  v 6.0
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2020-03-06 L3 programming layer (loader) 
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count325
+\l__pdf_internal_box=\box51
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2020-03-06 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count326
+\g__xparse_grabber_int=\count327
+\l__xparse_m_args_int=\count328
+\l__xparse_v_nesting_int=\count329
+)
+Package: lipsum 2019/01/02 v2.2 150 paragraphs of Lorem Ipsum dummy text
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/lipsum/lipsum.ltd.tex
+File: lipsum.ltd.tex 2019/01/02 v2.2 The Lorem ipsum dummy text
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+LaTeX Font Info:    Redeclaring math symbol \square on input line 141.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2020/01/20 v2.17e AMS math features
+\@mathmargin=\skip258
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen185
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count330
+LaTeX Info: Redefining \frac on input line 227.
+\uproot@=\count331
+\leftroot@=\count332
+LaTeX Info: Redefining \overline on input line 389.
+\classnum@=\count333
+\DOTSCASE@=\count334
+LaTeX Info: Redefining \ldots on input line 486.
+LaTeX Info: Redefining \dots on input line 489.
+LaTeX Info: Redefining \cdots on input line 610.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen186
+LaTeX Font Info:    Redeclaring font encoding OML on input line 733.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 734.
+\macc@depth=\count335
+\c@MaxMatrixCols=\count336
+\dotsspace@=\muskip16
+\c@parentequation=\count337
+\dspbrk@lvl=\count338
+\tag@help=\toks33
+\row@=\count339
+\column@=\count340
+\maxfields@=\count341
+\andhelp@=\toks34
+\eqnshift@=\dimen187
+\alignsep@=\dimen188
+\tagshift@=\dimen189
+\tagwidth@=\dimen190
+\totwidth@=\dimen191
+\lineht@=\dimen192
+\@envbody=\toks35
+\multlinegap=\skip259
+\multlinetaggap=\skip260
+\mathdisplay@stack=\toks36
+LaTeX Info: Redefining \[ on input line 2859.
+LaTeX Info: Redefining \] on input line 2860.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/stmaryrd/stmaryrd.sty
+Package: stmaryrd 1994/03/03 St Mary's Road symbol package
+\symstmry=\mathgroup8
+LaTeX Font Info:    Overwriting symbol font `stmry' in version `bold'
+(Font)                  U/stmry/m/n --> U/stmry/b/n on input line 89.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+LaTeX Font Info:    Redeclaring math symbol \boxdot on input line 44.
+LaTeX Font Info:    Redeclaring math symbol \blacksquare on input line 48.
+LaTeX Font Info:    Redeclaring math symbol \vDash on input line 60.
+LaTeX Font Info:    Redeclaring math symbol \leftleftarrows on input line 63.
+LaTeX Font Info:    Redeclaring math symbol \rightrightarrows on input line 64.
+LaTeX Font Info:    Redeclaring math symbol \leqslant on input line 101.
+LaTeX Font Info:    Redeclaring math symbol \geqslant on input line 108.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleright on input line 120.
+LaTeX Font Info:    Redeclaring math symbol \blacktriangleleft on input line 121.
+LaTeX Font Info:    Redeclaring math symbol \complement on input line 165.
+LaTeX Font Info:    Redeclaring math symbol \intercal on input line 166.
+LaTeX Font Info:    Redeclaring math symbol \nleqslant on input line 181.
+LaTeX Font Info:    Redeclaring math symbol \ngeqslant on input line 182.
+LaTeX Font Info:    Redeclaring math symbol \varsubsetneq on input line 203.
+LaTeX Font Info:    Redeclaring math symbol \subsetneqq on input line 207.
+LaTeX Font Info:    Redeclaring math symbol \nparallel on input line 215.
+LaTeX Font Info:    Redeclaring math symbol \nvDash on input line 221.
+LaTeX Font Info:    Redeclaring math symbol \nexists on input line 235.
+LaTeX Font Info:    Redeclaring math symbol \smallsetminus on input line 251.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowleft on input line 257.
+LaTeX Font Info:    Redeclaring math symbol \curvearrowright on input line 258.
+LaTeX Font Info:    Redeclaring math symbol \varkappa on input line 260.
+LaTeX Font Info:    Redeclaring math symbol \hslash on input line 262.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/amscls/amsthm.sty
+Package: amsthm 2017/10/31 v2.20.4
+\thm@style=\toks37
+\thm@bodyfont=\toks38
+\thm@headfont=\toks39
+\thm@notefont=\toks40
+\thm@headpunct=\toks41
+\thm@preskip=\skip261
+\thm@postskip=\skip262
+\thm@headsep=\skip263
+\dth@everypar=\toks42
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/newlfont.sty
+Package: newlfont 1998/08/17 v2.2m Standard LaTeX package
+LaTeX Info: Redefining \em on input line 57.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup9
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/layouts/layouts.sty
+Package: layouts 2009/09/02 v2.6d graphical depiction of document elements
+\l@ylen=\skip264
+\layoutsbox=\box54
+\l@youtunitlength=\skip265
+\l@youtlinethick=\skip266
+\l@youtlinethickii=\skip267
+\l@ysetupparskip=\skip268
+\l@ysetupbaselineskip=\skip269
+\l@yonem=\skip270
+\l@yonex=\skip271
+\l@ylmarg=\skip272
+\l@yrmarg=\skip273
+\l@yitmindent=\skip274
+\l@ylblwidth=\skip275
+\l@ylblsep=\skip276
+\l@ylparindent=\skip277
+\l@ytsep=\skip278
+\l@ypskip=\skip279
+\l@yptsep=\skip280
+\l@ypsep=\skip281
+\l@yitmsep=\skip282
+\l@ytok=\toks43
+\l@youtpw=\count342
+\l@youtph=\count343
+\l@youthpi=\count344
+\l@youthpii=\count345
+\l@youthpiii=\count346
+\l@youthpiv=\count347
+\l@youthpv=\count348
+\l@youthpvi=\count349
+\l@youthpvii=\count350
+\l@youtparskip=\count351
+\l@youtvpi=\count352
+\l@youtvpii=\count353
+\l@youtvpiii=\count354
+\l@youtvpiv=\count355
+\l@youtvpv=\count356
+\l@youtvpvi=\count357
+\l@youtvpvii=\count358
+\l@youthdo=\count359
+\l@youthdi=\count360
+\l@youthdii=\count361
+\l@youthdiii=\count362
+\l@youthdiv=\count363
+\l@youthdv=\count364
+\l@youthdvi=\count365
+\l@youthdvii=\count366
+\l@youtvdo=\count367
+\l@youtvdi=\count368
+\l@youtvdii=\count369
+\l@youtvdiii=\count370
+\l@youtvdiv=\count371
+\l@youtvdv=\count372
+\l@youtvdvi=\count373
+\l@youtvdvii=\count374
+\l@youtvdviii=\count375
+\l@youtxci=\count376
+\l@youtxcii=\count377
+\l@youtxciii=\count378
+\l@youtxciv=\count379
+\l@youtxcv=\count380
+\l@youtxcvi=\count381
+\l@youtyci=\count382
+\l@youtycii=\count383
+\l@youtyciii=\count384
+\l@youtyciv=\count385
+\l@youtycv=\count386
+\l@youtycvi=\count387
+\l@youtycvii=\count388
+\l@youtycviii=\count389
+\l@youtxco=\count390
+\l@youtyco=\count391
+\l@ytempdima=\skip283
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2019/11/30 v1.2a Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/30 v1.4a Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+)
+\Gin@req@height=\dimen193
+\Gin@req@width=\dimen194
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/tools/longtable.sty
+Package: longtable 2020/01/07 v4.13 Multi-page Table package (DPC)
+\LTleft=\skip284
+\LTright=\skip285
+\LTpre=\skip286
+\LTpost=\skip287
+\LTchunksize=\count392
+\LTcapwidth=\dimen195
+\LT@head=\box55
+\LT@firsthead=\box56
+\LT@foot=\box57
+\LT@lastfoot=\box58
+\LT@cols=\count393
+\LT@rows=\count394
+\c@LT@tables=\count395
+\c@LT@chunks=\count396
+\LT@p@ftn=\toks44
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/rotating.sty
+Package: rotating 2016/08/11 v2.16d rotated objects in LaTeX
+\c@r@tfl@t=\count397
+\rotFPtop=\skip288
+\rotFPbot=\skip289
+\rot@float@box=\box59
+\rot@mess@toks=\toks45
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks46
+\inpenc@posthook=\toks47
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/colortbl/colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks48
+\minrowclearance=\skip290
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/wasysym/wasysym.sty
+Package: wasysym 2020/01/19 v2.4 Wasy-2 symbol support package
+\symwasy=\mathgroup10
+LaTeX Font Info:    Overwriting symbol font `wasy' in version `bold'
+(Font)                  U/wasy/m/n --> U/wasy/b/n on input line 93.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/mathrsfs.sty
+Package: mathrsfs 1996/01/01 Math RSFS package v1.0 (jk)
+\symrsfs=\mathgroup11
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/float/float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count398
+\float@exts=\toks49
+\float@box=\box60
+\@float@everytoks=\toks50
+\@floatcapt=\box61
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/was/upgreek.sty
+Package: upgreek 2003/02/12 v2.0 (WaS)
+Package upgreek Info: Using Euler Roman for upright Greek on input line 31.
+\symugrf@m=\mathgroup12
+LaTeX Font Info:    Overwriting symbol font `ugrf@m' in version `bold'
+(Font)                  U/eur/m/n --> U/eur/b/n on input line 38.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip291
+\bibsep=\skip292
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count399
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2020/03/22 3.42 The Babel package
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2020/03/22 3.42 Babel switching mechanism
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2020/03/22 3.42 Babel common definitions
+\babel@savecnt=\count400
+\U@D=\dimen196
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read3
+\bbl@dirlevel=\count401
+)
+\es@quottoks=\toks51
+\es@quotdepth=\count402
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2020/01/14 v7.00d Hypertext links for LaTeX
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2019/11/24 v0.31 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+)
+\@linkdim=\dimen197
+\Hy@linkcounter=\count403
+\Hy@pagecounter=\count404
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2020/01/14 v7.00d Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count405
+Package hyperref Info: Option `colorlinks' set `true' on input line 4421.
+Package hyperref Info: Hyper figures OFF on input line 4547.
+Package hyperref Info: Link nesting OFF on input line 4552.
+Package hyperref Info: Hyper index ON on input line 4555.
+Package hyperref Info: Plain pages OFF on input line 4562.
+Package hyperref Info: Backreferencing OFF on input line 4567.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4800.
+\c@Hy@tempcnt=\count406
+LaTeX Info: Redefining \url on input line 5159.
+\XeTeXLinkMargin=\dimen198
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count407
+\Field@Width=\dimen199
+\Fld@charsize=\dimen256
+Package hyperref Info: Hyper figures OFF on input line 6430.
+Package hyperref Info: Link nesting OFF on input line 6435.
+Package hyperref Info: Hyper index ON on input line 6438.
+Package hyperref Info: backreferencing OFF on input line 6445.
+Package hyperref Info: Link coloring ON on input line 6448.
+Package hyperref Info: Link coloring with OCG OFF on input line 6455.
+Package hyperref Info: PDF/A mode OFF on input line 6460.
+LaTeX Info: Redefining \ref on input line 6500.
+LaTeX Info: Redefining \pageref on input line 6504.
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/atbegshi/atbegshi.sty
+Package: atbegshi 2019/12/05 v1.19 At begin shipout hook (HO)
+)
+\Hy@abspage=\count408
+\c@Item=\count409
+\c@Hfootnote=\count410
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/memoir/memhfixc.sty
+Package: memhfixc 2019/10/24 v1.18 nameref/hyperref package fixes for memoir class
+\c@memhycontfloat=\count411
+\c@Hpagenote=\count412
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2020/01/14 v7.00d Hyperref driver for pdfTeX
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/atveryend/atveryend.sty
+Package: atveryend 2019-12-11 v1.11 Hooks at the very end of document (HO)
+)
+\Fld@listcount=\count413
+\c@bookmark@seq@number=\count414
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip293
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/mdwtools/footnote.sty
+Package: footnote 1997/01/28 1.13 Save footnotes around boxes
+\fn@notes=\box62
+\fn@width=\dimen257
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.sty
+Package: microtype 2019/11/18 v2.7d Micro-typographical refinements (RS)
+\MT@toks=\toks52
+\MT@count=\count415
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen258
+LaTeX Info: Redefining \textmicrotypecontext on input line 1354.
+\MT@listname@count=\count416
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype-pdftex.def
+File: microtype-pdftex.def 2019/11/18 v2.7d Definitions specific to pdftex (RS)
+LaTeX Info: Redefining \lsstyle on input line 914.
+LaTeX Info: Redefining \lslig on input line 914.
+\MT@outer@space=\skip294
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/microtype.cfg
+File: microtype.cfg 2019/11/18 v2.7d microtype main configuration file (RS)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/rotfloat/rotfloat.sty
+Package: rotfloat 2004/01/04 v1.2 Combining float+rotating package (AS)
+Package rotfloat Info: float package v1.3 detected on input line 74.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/base/alltt.sty
+Package: alltt 1997/06/16 v2.0g defines alltt environment
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgf.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfrcs.sty (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common.tex
+\pgfutil@everybye=\toks53
+\pgfutil@tempdima=\dimen259
+\pgfutil@tempdimb=\dimen260
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-common-lists.tex)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfutil-latex.def
+\pgfutil@abb=\box63
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/ms/everyshi.sty
+Package: everyshi 2001/05/15 v3.00 EveryShipout Package (MS)
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfrcs.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/pgf.revision.tex)
+Package: pgfrcs 2020/01/08 v3.1.5b (3.1.5b)
+))
+Package: pgf 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/basiclayer/pgfcore.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/systemlayer/pgfsys.sty (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys.code.tex
+Package: pgfsys 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex
+\pgfkeys@pathtoks=\toks54
+\pgfkeys@temptoks=\toks55
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeysfiltered.code.tex
+\pgfkeys@tmptoks=\toks56
+))
+\pgf@x=\dimen261
+\pgf@y=\dimen262
+\pgf@xa=\dimen263
+\pgf@ya=\dimen264
+\pgf@xb=\dimen265
+\pgf@yb=\dimen266
+\pgf@xc=\dimen267
+\pgf@yc=\dimen268
+\pgf@xd=\dimen269
+\pgf@yd=\dimen270
+\w@pgf@writea=\write5
+\r@pgf@reada=\read4
+\c@pgf@counta=\count417
+\c@pgf@countb=\count418
+\c@pgf@countc=\count419
+\c@pgf@countd=\count420
+\t@pgf@toka=\toks57
+\t@pgf@tokb=\toks58
+\t@pgf@tokc=\toks59
+\pgf@sys@id@count=\count421
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgf.cfg
+File: pgf.cfg 2020/01/08 v3.1.5b (3.1.5b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-pdftex.def
+File: pgfsys-pdftex.def 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsys-common-pdf.def
+File: pgfsys-common-pdf.def 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsyssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfsyssoftpath@smallbuffer@items=\count422
+\pgfsyssoftpath@bigbuffer@items=\count423
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/systemlayer/pgfsysprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcore.code.tex
+Package: pgfcore 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathcalc.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathutil.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathparser.code.tex
+\pgfmath@dimen=\dimen271
+\pgfmath@count=\count424
+\pgfmath@box=\box64
+\pgfmath@toks=\toks60
+\pgfmath@stack@operand=\toks61
+\pgfmath@stack@operation=\toks62
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.basic.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.trigonometric.code.tex)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.random.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.comparison.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.base.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.round.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.misc.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfunctions.integerarithmetics.code.tex))) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmathfloat.code.tex
+\c@pgfmathroundto@lastzeros=\count425
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfint.code.tex) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepoints.code.tex
+File: pgfcorepoints.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@picminx=\dimen272
+\pgf@picmaxx=\dimen273
+\pgf@picminy=\dimen274
+\pgf@picmaxy=\dimen275
+\pgf@pathminx=\dimen276
+\pgf@pathmaxx=\dimen277
+\pgf@pathminy=\dimen278
+\pgf@pathmaxy=\dimen279
+\pgf@xx=\dimen280
+\pgf@xy=\dimen281
+\pgf@yx=\dimen282
+\pgf@yy=\dimen283
+\pgf@zx=\dimen284
+\pgf@zy=\dimen285
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@path@lastx=\dimen286
+\pgf@path@lasty=\dimen287
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@shorten@end@additional=\dimen288
+\pgf@shorten@start@additional=\dimen289
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorescopes.code.tex
+File: pgfcorescopes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfpic=\box65
+\pgf@hbox=\box66
+\pgf@layerbox@main=\box67
+\pgf@picture@serial@count=\count426
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoregraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgflinewidth=\dimen290
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@pt@x=\dimen291
+\pgf@pt@y=\dimen292
+\pgf@pt@temp=\dimen293
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorequick.code.tex
+File: pgfcorequick.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorearrows.code.tex
+File: pgfcorearrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfarrowsep=\dimen294
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreshade.code.tex
+File: pgfcoreshade.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@max=\dimen295
+\pgf@sys@shading@range@num=\count427
+\pgf@shadingcount=\count428
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreimage.code.tex
+File: pgfcoreimage.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoreexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfexternal@startupbox=\box68
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorelayers.code.tex
+File: pgfcorelayers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcoretransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorepatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/basiclayer/pgfcorerdf.code.tex
+File: pgfcorerdf.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleshapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodeparttextbox=\box69
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduleplot.code.tex
+File: pgfmoduleplot.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/compatibility/pgfcomp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/frontendlayer/tikz.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgffor.sty (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/utilities/pgfkeys.sty (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgfkeys.code.tex)) (/usr/local/texlive/2020/texmf-dist/tex/latex/pgf/math/pgfmath.sty (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/utilities/pgffor.code.tex
+Package: pgffor 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/math/pgfmath.code.tex)
+\pgffor@iter=\dimen296
+\pgffor@skip=\dimen297
+\pgffor@stack=\toks63
+\pgffor@toks=\toks64
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/tikz.code.tex
+Package: tikz 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@plot@mark@count=\count429
+\pgfplotmarksize=\dimen298
+)
+\tikz@lastx=\dimen299
+\tikz@lasty=\dimen300
+\tikz@lastxsaved=\dimen301
+\tikz@lastysaved=\dimen302
+\tikz@lastmovetox=\dimen303
+\tikz@lastmovetoy=\dimen304
+\tikzleveldistance=\dimen305
+\tikzsiblingdistance=\dimen306
+\tikz@figbox=\box70
+\tikz@figbox@bg=\box71
+\tikz@tempbox=\box72
+\tikz@tempbox@bg=\box73
+\tikztreelevel=\count430
+\tikznumberofchildren=\count431
+\tikznumberofcurrentchild=\count432
+\tikz@fig@count=\count433
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmodulematrix.code.tex
+File: pgfmodulematrix.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfmatrixcurrentrow=\count434
+\pgfmatrixcurrentcolumn=\count435
+\pgf@matrix@numberofcolumns=\count436
+)
+\tikz@expandcount=\count437
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryarrows.code.tex
+File: tikzlibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryarrows.code.tex
+File: pgflibraryarrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\arrowsize=\dimen307
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.code.tex
+File: tikzlibraryshapes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.geometric.code.tex
+File: tikzlibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.geometric.code.tex
+File: pgflibraryshapes.geometric.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+))
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.misc.code.tex
+File: tikzlibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.misc.code.tex
+File: pgflibraryshapes.misc.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.symbols.code.tex
+File: tikzlibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.symbols.code.tex
+File: pgflibraryshapes.symbols.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.arrows.code.tex
+File: tikzlibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.arrows.code.tex
+File: pgflibraryshapes.arrows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.callouts.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.callouts.code.tex)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshapes.multipart.code.tex
+File: tikzlibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/shapes/pgflibraryshapes.multipart.code.tex
+File: pgflibraryshapes.multipart.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgfnodepartlowerbox=\box74
+\pgfnodeparttwobox=\box75
+\pgfnodepartthreebox=\box76
+\pgfnodepartfourbox=\box77
+\pgfnodeparttwentybox=\box78
+\pgfnodepartnineteenbox=\box79
+\pgfnodeparteighteenbox=\box80
+\pgfnodepartseventeenbox=\box81
+\pgfnodepartsixteenbox=\box82
+\pgfnodepartfifteenbox=\box83
+\pgfnodepartfourteenbox=\box84
+\pgfnodepartthirteenbox=\box85
+\pgfnodeparttwelvebox=\box86
+\pgfnodepartelevenbox=\box87
+\pgfnodeparttenbox=\box88
+\pgfnodepartninebox=\box89
+\pgfnodeparteightbox=\box90
+\pgfnodepartsevenbox=\box91
+\pgfnodepartsixbox=\box92
+\pgfnodepartfivebox=\box93
+))) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarysnakes.code.tex
+File: tikzlibrarysnakes.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+
+
+Package pgf Warning: Snakes have been superseded by decorations. Please use the decoration libraries instead of the snakes library on input line 14.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathmorphing.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/modules/pgfmoduledecorations.code.tex
+\pgfdecoratedcompleteddistance=\dimen308
+\pgfdecoratedremainingdistance=\dimen309
+\pgfdecoratedinputsegmentcompleteddistance=\dimen310
+\pgfdecoratedinputsegmentremainingdistance=\dimen311
+\pgf@decorate@distancetomove=\dimen312
+\pgf@decorate@repeatstate=\count438
+\pgfdecorationsegmentamplitude=\dimen313
+\pgfdecorationsegmentlength=\dimen314
+)
+\tikz@lib@dec@box=\box94
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.pathreplacing.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathreplacing.code.tex)) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarydecorations.shapes.code.tex (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.shapes.code.tex))) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryautomata.code.tex
+File: tikzlibraryautomata.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarybackgrounds.code.tex
+File: tikzlibrarybackgrounds.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+\pgf@layerbox@background=\box95
+\pgf@layerboxsaved@background=\box96
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypetri.code.tex
+File: tikzlibrarypetri.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/lettrine/lettrine.sty
+File: lettrine.sty 2020-03-14 v2.23 (Daniel Flipo)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/minifp/minifp.sty
+Package: minifp 2013/12/30 v0.96. Macros for real number operations and a stack-based programing language.
+\MFP@loopctr=\count439
+)
+\c@DefaultLines=\count440
+\c@DefaultDepth=\count441
+\DefaultFindent=\dimen315
+\DefaultNindent=\dimen316
+\DefaultSlope=\dimen317
+\DiscardVskip=\dimen318
+\L@lbox=\box97
+\L@tbox=\box98
+\c@L@lines=\count442
+\c@L@depth=\count443
+\L@Pindent=\dimen319
+\L@Findent=\dimen320
+\L@Nindent=\dimen321
+\L@lraise=\dimen322
+\L@first=\dimen323
+\L@next=\dimen324
+\L@slope=\dimen325
+\L@height=\dimen326
+\L@novskip=\dimen327
+\L@target@ht=\dimen328
+\L@target@dp=\dimen329
+\L@target@tht=\dimen330
+\LettrineWidth=\dimen331
+\LettrineHeight=\dimen332
+\LettrineDepth=\dimen333
+\Llist@everypar=\toks65
+
+Loading lettrine.cfg
+(/usr/local/texlive/2020/texmf-dist/tex/latex/lettrine/lettrine.cfg)) (/usr/local/texlive/2020/texmf-dist/tex/latex/todonotes/todonotes.sty
+Package: todonotes 2019/01/24 v1.1.2 Todonotes source and documentation.
+Package: todonotes 2018/11/22
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarypositioning.code.tex
+File: tikzlibrarypositioning.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryshadows.code.tex
+File: tikzlibraryshadows.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibraryfadings.code.tex
+File: tikzlibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+ (/usr/local/texlive/2020/texmf-dist/tex/generic/pgf/libraries/pgflibraryfadings.code.tex
+File: pgflibraryfadings.code.tex 2020/01/08 v3.1.5b (3.1.5b)
+)))
+\c@@todonotes@numberoftodonotes=\count444
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks66
+\labelindent=\skip295
+\enit@outerparindent=\dimen334
+\enit@toks=\toks67
+\enit@inbox=\box99
+\enit@count@id=\count445
+\enitdp@description=\count446
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 254.
+ (/Users/fergusmoore/Documents/GitHub/PhD_Thesis/.texpadtmp/fergus_thesis.aux
+
+LaTeX Warning: Label `sectionCrystalGrowthActivity' multiply defined.
+
+
+LaTeX Warning: Label `eq:Morse' multiply defined.
+
+
+LaTeX Warning: Label `eq:Overlap' multiply defined.
+
+
+LaTeX Warning: Label `eq:chi4' multiply defined.
+
+)
+\openout1 = `fergus_thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 257.
+LaTeX Font Info:    ... okay on input line 257.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 257.
+LaTeX Font Info:    ... okay on input line 257.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 257.
+LaTeX Font Info:    ... okay on input line 257.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 257.
+LaTeX Font Info:    ... okay on input line 257.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 257.
+LaTeX Font Info:    ... okay on input line 257.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 257.
+LaTeX Font Info:    ... okay on input line 257.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 257.
+LaTeX Font Info:    ... okay on input line 257.
+LaTeX Font Info:    Checking defaults for FML/fncmi/m/it on input line 257.
+LaTeX Font Info:    Trying to load font information for FML+fncmi on input line 257.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fouriernc/fmlfncmi.fd
+File: fmlfncmi.fd 2005/12/20 Fontinst v1.928 font definitions for FML/fncmi.
+)
+LaTeX Font Info:    ... okay on input line 257.
+LaTeX Font Info:    Checking defaults for FMS/fncm/m/n on input line 257.
+LaTeX Font Info:    Trying to load font information for FMS+fncm on input line 257.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fouriernc/fmsfncm.fd
+File: fmsfncm.fd 2005/12/20 Fontinst v1.928 font definitions for FMS/fncm.
+)
+LaTeX Font Info:    ... okay on input line 257.
+LaTeX Font Info:    Checking defaults for FMX/futm/m/n on input line 257.
+LaTeX Font Info:    Trying to load font information for FMX+futm on input line 257.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fourier/fmxfutm.fd
+File: fmxfutm.fd futm-extension
+)
+LaTeX Font Info:    ... okay on input line 257.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 257.
+LaTeX Font Info:    ... okay on input line 257.
+Package nag Info: pgf.sty is broken: disabling dollar check on input line 257.
+LaTeX Font Info:    Redeclaring math accent \widehat on input line 257.
+LaTeX Font Info:    Redeclaring math accent \widetilde on input line 257.
+ (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count447
+\scratchdimen=\dimen335
+\scratchbox=\box100
+\nofMPsegments=\count448
+\nofMParguments=\count449
+\everyMPshowfont=\toks68
+\MPscratchCnt=\count450
+\MPscratchDim=\dimen336
+\MPnumerator=\count451
+\makeMPintoPDFobject=\count452
+\everyMPtoPDFconversion=\toks69
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+
+Package layouts Warning: Layout scale set to 0.5 on input line 257.
+
+\AtBeginShipoutBox=\box101
+Package hyperref Info: Link coloring ON on input line 257.
+(/usr/local/texlive/2020/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2019/09/16 v2.46 Cross-referencing by name of section
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+) (/usr/local/texlive/2020/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count453
+)
+Redoing nameref's sectioning
+Redoing nameref's label
+LaTeX Info: Redefining \nameref on input line 257.
+LaTeX Info: Redefining \ref on input line 257.
+LaTeX Info: Redefining \pageref on input line 257.
+LaTeX Info: Redefining \nameref on input line 257.
+(/Users/fergusmoore/Documents/GitHub/PhD_Thesis/.texpadtmp/fergus_thesis.out) (/Users/fergusmoore/Documents/GitHub/PhD_Thesis/.texpadtmp/fergus_thesis.out)
+\@outlinefile=\write6
+\openout6 = `fergus_thesis.out'.
+
+LaTeX Info: Redefining \microtypecontext on input line 257.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+LaTeX Info: Redefining \showhyphens on input line 257.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fnc' (encoding: T1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ ABD: EveryShipout initializing macros
+
+Package todonotes Warning: The length marginparwidth is less than 2cm and will most likely cause issues with the appearance of inserted todonotes. The issue can be solved by adding a line like \setlength {\marginparwidth }{2cm} prior to loading the todonotes package. on input line 257.
+
+Package nag Info: Command \caption@xlabel not defined, skipping amendment on input line 257.
+Package nag Info: Command \captionabove not defined, skipping amendment on input line 257.
+Package nag Info: Command \captionbelow not defined, skipping amendment on input line 257.
+Package nag Info: Command \hc@caption not defined, skipping amendment on input line 257.
+Package nag Info: Command \topcaption not defined, skipping amendment on input line 257.
+(./frontmatter/title.tex
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 23.13821pt on input line 25.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 11.15991pt on input line 30.
+LaTeX Font Info:    Font shape `T1/fnc/m/sc' will be
+(Font)              scaled to size 11.15991pt on input line 32.
+<logos/bristolcrest_colour.pdf, id=348, 114.4275pt x 137.51375pt>
+File: logos/bristolcrest_colour.pdf Graphic file (type pdf)
+<use logos/bristolcrest_colour.pdf>
+Package pdftex.def Info: logos/bristolcrest_colour.pdf  used on input line 34.
+(pdftex.def)             Requested size: 68.65701pt x 82.50888pt.
+LaTeX Font Info:    Font shape `T1/fnc/m/sc' will be
+(Font)              scaled to size 10.18341pt on input line 40.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 7.71893pt on input line 41.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 5.57996pt on input line 41.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 41.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 7.63599pt on input line 41.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 41.
+LaTeX Font Info:    Trying to load font information for FML+fncm on input line 41.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fouriernc/fmlfncm.fd
+File: fmlfncm.fd 2005/12/20 Fontinst v1.928 font definitions for FML/fncm.
+)
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 10.07397pt on input line 41.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 7.63599pt on input line 41.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 5.51999pt on input line 41.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 41.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 41.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+stmry on input line 41.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/stmaryrd/Ustmry.fd)
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 41.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+wasy on input line 41.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/wasysym/uwasy.fd
+File: uwasy.fd 2020/01/19 v2.4 Wasy-2 symbol font definitions
+)
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 41.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/jknapltx/ursfs.fd
+File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/microtype/mt-eur.cfg
+File: mt-eur.cfg 2006/07/31 v1.1 microtype config. file: AMS Euler Roman (RS)
+)
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 9.29993pt on input line 47.
+ [1
+
+
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./logos/bristolcrest_colour.pdf>] [2
+
+]) (./frontmatter/abstract.tex
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 13.39188pt on input line 14.
+LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
+(Font)              scaled to size 13.39188pt on input line 14.
+LaTeX Font Info:    Font shape `T1/fnc/b/sc' will be
+(Font)              scaled to size 13.39188pt on input line 14.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 30.94487pt on input line 17.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 45.51921pt on input line 17.
+LaTeX Font Info:    Font shape `T1/fnc/m/sc' will be
+(Font)              scaled to size 45.51921pt on input line 17.
+Package lettrine.sty Info: Targeted height = 33.27432pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 33.866pt ( \color {Tan} {\textsc {A}});
+(lettrine.sty)             reported on input line 17.
+pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.30 \clearpage
+                [1
+
+
+])pdfTeX warning (ext4): destination with the same identifier (name{page.ii}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.283 \clearemptydoublepage
+                            [2
+
+
+] (./frontmatter/dedication.tex
+Package lettrine.sty Info: Targeted height = 33.27432pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 33.866pt ( \color {Tan} {\textsc {T}});
+(lettrine.sty)             reported on input line 6.
+LaTeX Font Info:    Font shape `T1/fnc/m/it' will be
+(Font)              scaled to size 10.18341pt on input line 8.
+ [3
+
+]) [4
+
+
+] (./frontmatter/declaration.tex
+Package lettrine.sty Info: Targeted height = 33.27432pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 33.866pt ( \color {Tan} {\textsc {I}});
+(lettrine.sty)             reported on input line 24.
+ [5
+
+]
+LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
+(Font)              scaled to size 10.18341pt on input line 42.
+)
+LaTeX Font Info:    Font shape `T1/fnc/m/sc' will be
+(Font)              scaled to size 9.29993pt on input line 289.
+ [6
+
+] (/Users/fergusmoore/Documents/GitHub/PhD_Thesis/.texpadtmp/fergus_thesis.toc [7
+
+]
+LaTeX Font Info:    Font shape `T1/fnc/m/it' will be
+(Font)              scaled to size 7.71893pt on input line 53.
+LaTeX Font Info:    Font shape `T1/fnc/m/it' will be
+(Font)              scaled to size 5.57996pt on input line 53.
+
+Overfull \hbox (1.20142pt too wide) detected at line 64
+ \T1/fnc/m/n/10.95 102
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 65
+ \T1/fnc/m/n/10.95 103
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 66
+ \T1/fnc/m/n/10.95 103
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 67
+ \T1/fnc/m/n/10.95 103
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 68
+ \T1/fnc/m/n/10.95 106
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 69
+ \T1/fnc/m/n/10.95 110
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 70
+ \T1/fnc/m/n/10.95 111
+ []
+
+
+Overfull \hbox (1.75146pt too wide) detected at line 71
+ \T1/fnc/b/n/10.95 113
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 72
+ \T1/fnc/m/n/10.95 113
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 73
+ \T1/fnc/m/n/10.95 114
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 74
+ \T1/fnc/m/n/10.95 116
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 75
+ \T1/fnc/m/n/10.95 118
+ []
+
+
+Overfull \hbox (1.75146pt too wide) detected at line 76
+ \T1/fnc/b/n/10.95 119
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 77
+ \T1/fnc/m/n/10.95 119
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 78
+ \T1/fnc/m/n/10.95 119
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 79
+ \T1/fnc/m/n/10.95 119
+ []
+
+[8]
+Overfull \hbox (1.20142pt too wide) detected at line 80
+ \T1/fnc/m/n/10.95 119
+ []
+
+
+Overfull \hbox (1.75146pt too wide) detected at line 81
+ \T1/fnc/b/n/10.95 121
+ []
+
+) [9] [10
+
+] (/Users/fergusmoore/Documents/GitHub/PhD_Thesis/.texpadtmp/fergus_thesis.lof
+LaTeX Font Info:    Font shape `T1/fnc/b/sc' will be
+(Font)              scaled to size 10.18341pt on input line 2.
+ [11]
+Overfull \hbox (1.20142pt too wide) detected at line 45
+ \T1/fnc/m/n/10.95 100
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 46
+ \T1/fnc/m/n/10.95 102
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 47
+ \T1/fnc/m/n/10.95 104
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 48
+ \T1/fnc/m/n/10.95 107
+ []
+
+
+Overfull \hbox (1.20142pt too wide) detected at line 49
+ \T1/fnc/m/n/10.95 109
+ []
+
+) [12] (./chapters/activeMatter/activeMatter.tex
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 46.57756pt on input line 13.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 68.51456pt on input line 13.
+LaTeX Font Info:    Font shape `T1/fnc/m/sc' will be
+(Font)              scaled to size 68.51456pt on input line 13.
+Package lettrine.sty Info: Targeted height = 50.0838pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 50.9744pt ( \color {Tan} {\textsc {A}});
+(lettrine.sty)             reported on input line 13.
+<chapters/activeMatter/figsActiveMatter/figAMcollage.png, id=598, 413.472pt x 116.289pt>
+File: chapters/activeMatter/figsActiveMatter/figAMcollage.png Graphic file (type png)
+<use chapters/activeMatter/figsActiveMatter/figAMcollage.png>
+Package pdftex.def Info: chapters/activeMatter/figsActiveMatter/figAMcollage.png  used on input line 19.
+(pdftex.def)             Requested size: 448.0pt x 126.00014pt.
+
+Underfull \vbox (badness 7433) has occurred while \output is active []
+
+ [1
+
+
+
+] [2 <./chapters/activeMatter/figsActiveMatter/figAMcollage.png>]
+<chapters/activeMatter/figsActiveMatter/figParticleType.png, id=646, 556.917pt x 171.477pt>
+File: chapters/activeMatter/figsActiveMatter/figParticleType.png Graphic file (type png)
+<use chapters/activeMatter/figsActiveMatter/figParticleType.png>
+Package pdftex.def Info: chapters/activeMatter/figsActiveMatter/figParticleType.png  used on input line 40.
+(pdftex.def)             Requested size: 403.19727pt x 124.14626pt.
+LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
+(Font)              scaled to size 7.71893pt on input line 51.
+LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
+(Font)              scaled to size 5.57996pt on input line 51.
+ [3 <./chapters/activeMatter/figsActiveMatter/figParticleType.png>]
+
+LaTeX Font Warning: Font shape `U/stmry/b/n' undefined
+(Font)              using `U/stmry/m/n' instead on input line 81.
+
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <8.3> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 81.
+LaTeX Font Info:    Font shape `U/lasy/b/n' in size <6> not available
+(Font)              Font shape `U/lasy/m/n' tried instead on input line 81.
+
+LaTeX Font Warning: Font shape `U/wasy/b/n' in size <8.3> not available
+(Font)              Font shape `U/wasy/m/n' tried instead on input line 81.
+
+
+LaTeX Font Warning: Font shape `U/wasy/b/n' in size <6> not available
+(Font)              Font shape `U/wasy/m/n' tried instead on input line 81.
+
+[4]
+<chapters/activeMatter/figsActiveMatter/fig3DabpMSD.png, id=673, 443.475pt x 298.935pt>
+File: chapters/activeMatter/figsActiveMatter/fig3DabpMSD.png Graphic file (type png)
+<use chapters/activeMatter/figsActiveMatter/fig3DabpMSD.png>
+Package pdftex.def Info: chapters/activeMatter/figsActiveMatter/fig3DabpMSD.png  used on input line 90.
+(pdftex.def)             Requested size: 448.0pt x 301.98581pt.
+ [5 <./chapters/activeMatter/figsActiveMatter/fig3DabpMSD.png>] [6]
+LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
+(Font)              scaled to size 11.15991pt on input line 131.
+ [7]
+<chapters/activeMatter/figsActiveMatter/figVicsek.png, id=717, 582.102pt x 174.543pt>
+File: chapters/activeMatter/figsActiveMatter/figVicsek.png Graphic file (type png)
+<use chapters/activeMatter/figsActiveMatter/figVicsek.png>
+Package pdftex.def Info: chapters/activeMatter/figsActiveMatter/figVicsek.png  used on input line 163.
+(pdftex.def)             Requested size: 448.0pt x 134.33192pt.
+ [8] [9 <./chapters/activeMatter/figsActiveMatter/figVicsek.png>]
+<chapters/activeMatter/figsActiveMatter/figMIPS.jpg, id=761, 243.0681pt x 241.1409pt>
+File: chapters/activeMatter/figsActiveMatter/figMIPS.jpg Graphic file (type jpg)
+<use chapters/activeMatter/figsActiveMatter/figMIPS.jpg>
+Package pdftex.def Info: chapters/activeMatter/figsActiveMatter/figMIPS.jpg  used on input line 196.
+(pdftex.def)             Requested size: 224.0pt x 222.22762pt.
+ [10]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [11 <./chapters/activeMatter/figsActiveMatter/figMIPS.jpg>] [12]
+<chapters/activeMatter/figsActiveMatter/figPhaseDiagrams.png, id=831, 552.975pt x 235.863pt>
+File: chapters/activeMatter/figsActiveMatter/figPhaseDiagrams.png Graphic file (type png)
+<use chapters/activeMatter/figsActiveMatter/figPhaseDiagrams.png>
+Package pdftex.def Info: chapters/activeMatter/figsActiveMatter/figPhaseDiagrams.png  used on input line 238.
+(pdftex.def)             Requested size: 448.0pt x 191.08755pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [13]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [14 <./chapters/activeMatter/figsActiveMatter/figPhaseDiagrams.png>] [15]
+Underfull \vbox (badness 3138) has occurred while \output is active []
+
+ [16]
+Underfull \vbox (badness 1527) has occurred while \output is active []
+
+ [17]
+Underfull \vbox (badness 3138) has occurred while \output is active []
+
+ [18]
+Underfull \vbox (badness 3138) has occurred while \output is active []
+
+ [19]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [20]
+<chapters/activeMatter/figsActiveMatter/figJanusPhaseDiagram.png, id=1035, 427.488pt x 645.393pt>
+File: chapters/activeMatter/figsActiveMatter/figJanusPhaseDiagram.png Graphic file (type png)
+<use chapters/activeMatter/figsActiveMatter/figJanusPhaseDiagram.png>
+Package pdftex.def Info: chapters/activeMatter/figsActiveMatter/figJanusPhaseDiagram.png  used on input line 334.
+(pdftex.def)             Requested size: 313.59863pt x 473.46692pt.
+ [21] [22 <./chapters/activeMatter/figsActiveMatter/figJanusPhaseDiagram.png>]) (./chapters/colloids/colloids.tex [23] [24]
+Package lettrine.sty Info: Targeted height = 50.0838pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 50.9744pt ( \color {Tan} {\textsc {T}});
+(lettrine.sty)             reported on input line 6.
+ [25
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+
+Class memoir Warning: The material used in the headers is too large
+(27.2pt) for the given head height (13.6pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 30.
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [26] [27]
+<chapters/colloids/figsColloids/figDLVO.png, id=1111, 646.269pt x 270.903pt>
+File: chapters/colloids/figsColloids/figDLVO.png Graphic file (type png)
+<use chapters/colloids/figsColloids/figDLVO.png>
+Package pdftex.def Info: chapters/colloids/figsColloids/figDLVO.png  used on input line 56.
+(pdftex.def)             Requested size: 448.0pt x 187.79546pt.
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [28 <./chapters/colloids/figsColloids/figDLVO.png>]
+<chapters/colloids/figsColloids/figHardSpheres.png, id=1126, 483.771pt x 182.646pt>
+File: chapters/colloids/figsColloids/figHardSpheres.png Graphic file (type png)
+<use chapters/colloids/figsColloids/figHardSpheres.png>
+Package pdftex.def Info: chapters/colloids/figsColloids/figHardSpheres.png  used on input line 87.
+(pdftex.def)             Requested size: 448.0pt x 169.14555pt.
+ [29]
+<chapters/colloids/figsColloids/figFCCvsHCP.png, id=1146, 505.89pt x 187.683pt>
+File: chapters/colloids/figsColloids/figFCCvsHCP.png Graphic file (type png)
+<use chapters/colloids/figsColloids/figFCCvsHCP.png>
+Package pdftex.def Info: chapters/colloids/figsColloids/figFCCvsHCP.png  used on input line 109.
+(pdftex.def)             Requested size: 448.0pt x 166.20969pt.
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [30 <./chapters/colloids/figsColloids/figHardSpheres.png>]
+<chapters/colloids/figsColloids/figDepAO.png, id=1162, 526.914pt x 259.953pt>
+File: chapters/colloids/figsColloids/figDepAO.png Graphic file (type png)
+<use chapters/colloids/figsColloids/figDepAO.png>
+Package pdftex.def Info: chapters/colloids/figsColloids/figDepAO.png  used on input line 122.
+(pdftex.def)             Requested size: 448.0pt x 221.02058pt.
+ [31 <./chapters/colloids/figsColloids/figFCCvsHCP.png>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [32 <./chapters/colloids/figsColloids/figDepAO.png>] [33]
+<chapters/colloids/figsColloids/figGel_PD.png, id=1203, 465.594pt x 416.538pt>
+File: chapters/colloids/figsColloids/figGel_PD.png Graphic file (type png)
+<use chapters/colloids/figsColloids/figGel_PD.png>
+Package pdftex.def Info: chapters/colloids/figsColloids/figGel_PD.png  used on input line 162.
+(pdftex.def)             Requested size: 448.0pt x 400.81895pt.
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [34 <./chapters/colloids/figsColloids/figGel_PD.png>]
+Underfull \vbox (badness 1320) has occurred while \output is active []
+
+ [35]
+<chapters/colloids/figsColloids/figPinning_TJ.png, id=1234, 542.025pt x 189.654pt>
+File: chapters/colloids/figsColloids/figPinning_TJ.png Graphic file (type png)
+<use chapters/colloids/figsColloids/figPinning_TJ.png>
+Package pdftex.def Info: chapters/colloids/figsColloids/figPinning_TJ.png  used on input line 193.
+(pdftex.def)             Requested size: 448.0pt x 156.75876pt.
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [36 <./chapters/colloids/figsColloids/figPinning_TJ.png>]
+<chapters/colloids/figsColloids/figISF_example.png, id=1255, 595.7457pt x 408.0846pt>
+File: chapters/colloids/figsColloids/figISF_example.png Graphic file (type png)
+<use chapters/colloids/figsColloids/figISF_example.png>
+Package pdftex.def Info: chapters/colloids/figsColloids/figISF_example.png  used on input line 225.
+(pdftex.def)             Requested size: 358.40137pt x 245.51268pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [37]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [38 <./chapters/colloids/figsColloids/figISF_example.png>]
+<chapters/colloids/figsColloids/figPinning.png, id=1277, 413.472pt x 372.3pt>
+File: chapters/colloids/figsColloids/figPinning.png Graphic file (type png)
+<use chapters/colloids/figsColloids/figPinning.png>
+Package pdftex.def Info: chapters/colloids/figsColloids/figPinning.png  used on input line 279.
+(pdftex.def)             Requested size: 448.0pt x 403.39027pt.
+ [39]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [40 <./chapters/colloids/figsColloids/figPinning.png>]) (./chapters/expMethods/expMethods.tex [41] [42
+
+]
+Package lettrine.sty Info: Targeted height = 50.0838pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 50.9744pt ( \color {Tan} {\textsc {I}});
+(lettrine.sty)             reported on input line 8.
+
+Underfull \vbox (badness 1072) has occurred while \output is active []
+
+ [43] [44]
+<chapters/expMethods/figsExpMethods/figParticleSize.png, id=1346, 474.573pt x 191.625pt>
+File: chapters/expMethods/figsExpMethods/figParticleSize.png Graphic file (type png)
+<use chapters/expMethods/figsExpMethods/figParticleSize.png>
+Package pdftex.def Info: chapters/expMethods/figsExpMethods/figParticleSize.png  used on input line 55.
+(pdftex.def)             Requested size: 448.0pt x 180.8965pt.
+ [45] [46 <./chapters/expMethods/figsExpMethods/figParticleSize.png>] [47]
+<chapters/expMethods/figsExpMethods/figChordLength.png, id=1387, 388.287pt x 426.393pt>
+File: chapters/expMethods/figsExpMethods/figChordLength.png Graphic file (type png)
+<use chapters/expMethods/figsExpMethods/figChordLength.png>
+Package pdftex.def Info: chapters/expMethods/figsExpMethods/figChordLength.png  used on input line 93.
+(pdftex.def)             Requested size: 358.40137pt x 393.57454pt.
+
+Underfull \vbox (badness 1057) has occurred while \output is active []
+
+ [48] [49 <./chapters/expMethods/figsExpMethods/figChordLength.png>]) (./chapters/aprilFools/aprilFools.tex [50]
+Package lettrine.sty Info: Targeted height = 50.0838pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 50.9744pt ( \color {Tan} {\textsc {I}});
+(lettrine.sty)             reported on input line 14.
+ [51
+
+]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [52]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [53]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [54]
+Overfull \hbox (0.1733pt too wide) in paragraph at lines 87--89
+[]\T1/fnc/m/n/10.95 (-20) To prepare the high density initial configurations for the simulations, we use the Lubachevsky--
+ []
+
+[55]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [56]
+<chapters/aprilFools/figAprilFools/figStateDiagram.pdf, id=1559, 575.99193pt x 570.6921pt>
+File: chapters/aprilFools/figAprilFools/figStateDiagram.pdf Graphic file (type pdf)
+<use chapters/aprilFools/figAprilFools/figStateDiagram.pdf>
+Package pdftex.def Info: chapters/aprilFools/figAprilFools/figStateDiagram.pdf  used on input line 142.
+(pdftex.def)             Requested size: 358.40137pt x 355.11423pt.
+ [57]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [58 <./chapters/aprilFools/figAprilFools/figStateDiagram.pdf>]
+<chapters/aprilFools/figAprilFools/figAngell.pdf, id=1605, 578.16pt x 578.16pt>
+File: chapters/aprilFools/figAprilFools/figAngell.pdf Graphic file (type pdf)
+<use chapters/aprilFools/figAprilFools/figAngell.pdf>
+Package pdftex.def Info: chapters/aprilFools/figAprilFools/figAngell.pdf  used on input line 167.
+(pdftex.def)             Requested size: 313.59863pt x 313.59563pt.
+<chapters/aprilFools/figAprilFools/figGR_TCC.pdf, id=1606, 1011.78pt x 491.436pt>
+File: chapters/aprilFools/figAprilFools/figGR_TCC.pdf Graphic file (type pdf)
+<use chapters/aprilFools/figAprilFools/figGR_TCC.pdf>
+Package pdftex.def Info: chapters/aprilFools/figAprilFools/figGR_TCC.pdf  used on input line 179.
+(pdftex.def)             Requested size: 448.0pt x 217.60477pt.
+ [59]
+<chapters/aprilFools/figAprilFools/figPolymorph.pdf, id=1636, 867.24pt x 448.07399pt>
+File: chapters/aprilFools/figAprilFools/figPolymorph.pdf Graphic file (type pdf)
+<use chapters/aprilFools/figAprilFools/figPolymorph.pdf>
+Package pdftex.def Info: chapters/aprilFools/figAprilFools/figPolymorph.pdf  used on input line 214.
+(pdftex.def)             Requested size: 448.0pt x 231.4683pt.
+
+Underfull \vbox (badness 4353) has occurred while \output is active []
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [60 <./chapters/aprilFools/figAprilFools/figAngell.pdf>] [61 <./chapters/aprilFools/figAprilFools/figGR_TCC.pdf>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [62 <./chapters/aprilFools/figAprilFools/figPolymorph.pdf>]
+<chapters/aprilFools/figAprilFools/figMFPT.pdf, id=1745, 578.16pt x 578.16pt>
+File: chapters/aprilFools/figAprilFools/figMFPT.pdf Graphic file (type pdf)
+<use chapters/aprilFools/figAprilFools/figMFPT.pdf>
+Package pdftex.def Info: chapters/aprilFools/figAprilFools/figMFPT.pdf  used on input line 242.
+(pdftex.def)             Requested size: 224.0pt x 223.99939pt.
+<chapters/aprilFools/figAprilFools/figFCCavrami.pdf, id=1746, 1806.75pt x 599.84097pt>
+File: chapters/aprilFools/figAprilFools/figFCCavrami.pdf Graphic file (type pdf)
+<use chapters/aprilFools/figAprilFools/figFCCavrami.pdf>
+Package pdftex.def Info: chapters/aprilFools/figAprilFools/figFCCavrami.pdf  used on input line 250.
+(pdftex.def)             Requested size: 448.0pt x 148.73338pt.
+
+Underfull \vbox (badness 3942) has occurred while \output is active []
+
+ [63 <./chapters/aprilFools/figAprilFools/figMFPT.pdf>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [64 <./chapters/aprilFools/figAprilFools/figFCCavrami.pdf>] [65]) (./chapters/activeConfinement/activeConfinement.tex
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [66]
+Package lettrine.sty Info: Targeted height = 50.0838pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 50.9744pt ( \color {Tan} {\textsc {W}});
+(lettrine.sty)             reported on input line 11.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [67
+
+]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [68]
+Underfull \vbox (badness 3138) has occurred while \output is active []
+
+ [69] [70]
+<chapters/activeConfinement/figsActiveConfinement/figObstacles.png, id=1911, 545.967pt x 317.988pt>
+File: chapters/activeConfinement/figsActiveConfinement/figObstacles.png Graphic file (type png)
+<use chapters/activeConfinement/figsActiveConfinement/figObstacles.png>
+Package pdftex.def Info: chapters/activeConfinement/figsActiveConfinement/figObstacles.png  used on input line 92.
+(pdftex.def)             Requested size: 448.0pt x 260.94107pt.
+ [71] [72 <./chapters/activeConfinement/figsActiveConfinement/figObstacles.png>] [73] [74]
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 8.36993pt on input line 166.
+LaTeX Font Info:    Font shape `T1/fnc/m/n' will be
+(Font)              scaled to size 6.50995pt on input line 166.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 166.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 166.
+LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 166.
+LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
+(Font)              scaled to size 8.36993pt on input line 166.
+LaTeX Font Info:    Font shape `T1/fnc/b/n' will be
+(Font)              scaled to size 6.50995pt on input line 166.
+LaTeX Font Info:    Font shape `T1/fnc/m/it' will be
+(Font)              scaled to size 11.15991pt on input line 166.
+LaTeX Font Info:    Font shape `T1/fnc/m/it' will be
+(Font)              scaled to size 8.36993pt on input line 166.
+LaTeX Font Info:    Font shape `T1/fnc/m/it' will be
+(Font)              scaled to size 6.50995pt on input line 166.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 11.03998pt on input line 166.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 8.27998pt on input line 166.
+LaTeX Font Info:    Font shape `U/futm/m/n' will be
+(Font)              scaled to size 6.43999pt on input line 166.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 166.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\new@ifnextchar' on input line 166.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                \kern -0.81468pt
+(hyperref)                removed on input line 166.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 166.
+
+<chapters/activeConfinement/figsActiveConfinement/figContourAlphaTime.png, id=1955, 789.4293pt x 375.5631pt>
+File: chapters/activeConfinement/figsActiveConfinement/figContourAlphaTime.png Graphic file (type png)
+<use chapters/activeConfinement/figsActiveConfinement/figContourAlphaTime.png>
+Package pdftex.def Info: chapters/activeConfinement/figsActiveConfinement/figContourAlphaTime.png  used on input line 170.
+(pdftex.def)             Requested size: 448.0pt x 213.13336pt.
+[75]
+<chapters/activeConfinement/figsActiveConfinement/figChi4.png, id=1969, 372.4314pt x 563.4651pt>
+File: chapters/activeConfinement/figsActiveConfinement/figChi4.png Graphic file (type png)
+<use chapters/activeConfinement/figsActiveConfinement/figChi4.png>
+Package pdftex.def Info: chapters/activeConfinement/figsActiveConfinement/figChi4.png  used on input line 184.
+(pdftex.def)             Requested size: 224.0pt x 338.89845pt.
+ [76 <./chapters/activeConfinement/figsActiveConfinement/figContourAlphaTime.png>] [77 <./chapters/activeConfinement/figsActiveConfinement/figChi4.png>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 191.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `\new@ifnextchar' on input line 191.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                \kern -0.81468pt
+(hyperref)                removed on input line 191.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 191.
+
+<chapters/activeConfinement/figsActiveConfinement/fig3D_snapshots.png, id=1983, 435.591pt x 621.303pt>
+File: chapters/activeConfinement/figsActiveConfinement/fig3D_snapshots.png Graphic file (type png)
+<use chapters/activeConfinement/figsActiveConfinement/fig3D_snapshots.png>
+Package pdftex.def Info: chapters/activeConfinement/figsActiveConfinement/fig3D_snapshots.png  used on input line 195.
+(pdftex.def)             Requested size: 403.19727pt x 575.13235pt.
+[78] [79 <./chapters/activeConfinement/figsActiveConfinement/fig3D_snapshots.png>]
+<chapters/activeConfinement/figsActiveConfinement/figHeatmaps.png, id=1996, 478.734pt x 535.893pt>
+File: chapters/activeConfinement/figsActiveConfinement/figHeatmaps.png Graphic file (type png)
+<use chapters/activeConfinement/figsActiveConfinement/figHeatmaps.png>
+Package pdftex.def Info: chapters/activeConfinement/figsActiveConfinement/figHeatmaps.png  used on input line 214.
+(pdftex.def)             Requested size: 448.0pt x 501.49898pt.
+
+Underfull \vbox (badness 3138) has occurred while \output is active []
+
+ [80] [81 <./chapters/activeConfinement/figsActiveConfinement/figHeatmaps.png>]
+<chapters/activeConfinement/figsActiveConfinement/figVoro_PDF.pdf, id=2009, 810.29121pt x 315.24823pt>
+File: chapters/activeConfinement/figsActiveConfinement/figVoro_PDF.pdf Graphic file (type pdf)
+<use chapters/activeConfinement/figsActiveConfinement/figVoro_PDF.pdf>
+Package pdftex.def Info: chapters/activeConfinement/figsActiveConfinement/figVoro_PDF.pdf  used on input line 228.
+(pdftex.def)             Requested size: 448.0pt x 174.2962pt.
+ [82 <./chapters/activeConfinement/figsActiveConfinement/figVoro_PDF.pdf>]
+<chapters/activeConfinement/figsActiveConfinement/figLocalised.png, id=2061, 574.5465pt x 312.9291pt>
+File: chapters/activeConfinement/figsActiveConfinement/figLocalised.png Graphic file (type png)
+<use chapters/activeConfinement/figsActiveConfinement/figLocalised.png>
+Package pdftex.def Info: chapters/activeConfinement/figsActiveConfinement/figLocalised.png  used on input line 244.
+(pdftex.def)             Requested size: 313.59863pt x 170.80319pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [83 <./chapters/activeConfinement/figsActiveConfinement/figLocalised.png>]
+<chapters/activeConfinement/figsActiveConfinement/figCorrelation.png, id=2069, 755.769pt x 490.779pt>
+File: chapters/activeConfinement/figsActiveConfinement/figCorrelation.png Graphic file (type png)
+<use chapters/activeConfinement/figsActiveConfinement/figCorrelation.png>
+Package pdftex.def Info: chapters/activeConfinement/figsActiveConfinement/figCorrelation.png  used on input line 255.
+(pdftex.def)             Requested size: 448.0pt x 290.92004pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [84 <./chapters/activeConfinement/figsActiveConfinement/figCorrelation.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [85]
+<chapters/activeConfinement/figsActiveConfinement/figTCC_labelled.png, id=2091, 838.989pt x 419.385pt>
+File: chapters/activeConfinement/figsActiveConfinement/figTCC_labelled.png Graphic file (type png)
+<use chapters/activeConfinement/figsActiveConfinement/figTCC_labelled.png>
+Package pdftex.def Info: chapters/activeConfinement/figsActiveConfinement/figTCC_labelled.png  used on input line 279.
+(pdftex.def)             Requested size: 448.0pt x 223.94319pt.
+ [86 <./chapters/activeConfinement/figsActiveConfinement/figTCC_labelled.png>]
+<chapters/activeConfinement/figsActiveConfinement/figRe-entrant.png, id=2103, 630.282pt x 204.765pt>
+File: chapters/activeConfinement/figsActiveConfinement/figRe-entrant.png Graphic file (type png)
+<use chapters/activeConfinement/figsActiveConfinement/figRe-entrant.png>
+Package pdftex.def Info: chapters/activeConfinement/figsActiveConfinement/figRe-entrant.png  used on input line 297.
+(pdftex.def)             Requested size: 448.0pt x 145.54974pt.
+ [87 <./chapters/activeConfinement/figsActiveConfinement/figRe-entrant.png>]
+Underfull \vbox (badness 1057) has occurred while \output is active []
+
+ [88]) (./chapters/expSystem/expSystem.tex [89] [90
+
+]
+Package lettrine.sty Info: Targeted height = 50.0838pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 50.9744pt ( \color {Tan} {\textsc {I}});
+(lettrine.sty)             reported on input line 8.
+ [91]
+<chapters/expSystem/figsExpSystem/figSummary.png, id=2147, 521.877pt x 220.752pt>
+File: chapters/expSystem/figsExpSystem/figSummary.png Graphic file (type png)
+<use chapters/expSystem/figsExpSystem/figSummary.png>
+Package pdftex.def Info: chapters/expSystem/figsExpSystem/figSummary.png  used on input line 28.
+(pdftex.def)             Requested size: 448.0pt x 189.49944pt.
+
+Underfull \vbox (badness 3138) has occurred while \output is active []
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [92] [93 <./chapters/expSystem/figsExpSystem/figSummary.png>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [94]
+<chapters/expSystem/figsExpSystem/figSampleCell.png, id=2182, 1218.5525pt x 377.41pt>
+File: chapters/expSystem/figsExpSystem/figSampleCell.png Graphic file (type png)
+<use chapters/expSystem/figsExpSystem/figSampleCell.png>
+Package pdftex.def Info: chapters/expSystem/figsExpSystem/figSampleCell.png  used on input line 61.
+(pdftex.def)             Requested size: 448.0pt x 138.75266pt.
+ [95 <./chapters/expSystem/figsExpSystem/figSampleCell.png>]
+<chapters/expSystem/figsExpSystem/figFlowChart.png, id=2192, 1115.16624pt x 604.2575pt>
+File: chapters/expSystem/figsExpSystem/figFlowChart.png Graphic file (type png)
+<use chapters/expSystem/figsExpSystem/figFlowChart.png>
+Package pdftex.def Info: chapters/expSystem/figsExpSystem/figFlowChart.png  used on input line 86.
+(pdftex.def)             Requested size: 448.0pt x 242.74982pt.
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [96] [97 <./chapters/expSystem/figsExpSystem/figFlowChart.png>]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [98]
+<chapters/expSystem/figsExpSystem/figSintering.png, id=2232, 497.86pt x 641.39626pt>
+File: chapters/expSystem/figsExpSystem/figSintering.png Graphic file (type png)
+<use chapters/expSystem/figsExpSystem/figSintering.png>
+Package pdftex.def Info: chapters/expSystem/figsExpSystem/figSintering.png  used on input line 128.
+(pdftex.def)             Requested size: 358.40137pt x 461.73643pt.
+ [99]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [100 <./chapters/expSystem/figsExpSystem/figSintering.png>]
+<chapters/expSystem/figsExpSystem/figCircuit.png, id=2244, 504.88625pt x 500.87125pt>
+File: chapters/expSystem/figsExpSystem/figCircuit.png Graphic file (type png)
+<use chapters/expSystem/figsExpSystem/figCircuit.png>
+Package pdftex.def Info: chapters/expSystem/figsExpSystem/figCircuit.png  used on input line 155.
+(pdftex.def)             Requested size: 313.59863pt x 311.11015pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [101]
+Underfull \vbox (badness 6741) has occurred while \output is active []
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [102 <./chapters/expSystem/figsExpSystem/figCircuit.png>]
+<chapters/expSystem/figsExpSystem/figBrownian.png, id=2258, 376.242pt x 389.382pt>
+File: chapters/expSystem/figsExpSystem/figBrownian.png Graphic file (type png)
+<use chapters/expSystem/figsExpSystem/figBrownian.png>
+Package pdftex.def Info: chapters/expSystem/figsExpSystem/figBrownian.png  used on input line 183.
+(pdftex.def)             Requested size: 448.0pt x 463.67334pt.
+ [103]
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [104 <./chapters/expSystem/figsExpSystem/figBrownian.png>] [105]
+<chapters/expSystem/figsExpSystem/figJanusActive.png, id=2281, 473.697pt x 507.861pt>
+File: chapters/expSystem/figsExpSystem/figJanusActive.png Graphic file (type png)
+<use chapters/expSystem/figsExpSystem/figJanusActive.png>
+Package pdftex.def Info: chapters/expSystem/figsExpSystem/figJanusActive.png  used on input line 208.
+(pdftex.def)             Requested size: 448.0pt x 480.31865pt.
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [106] [107 <./chapters/expSystem/figsExpSystem/figJanusActive.png>]
+<chapters/expSystem/figsExpSystem/figParticleTracking.png, id=2303, 566.115pt x 558.888pt>
+File: chapters/expSystem/figsExpSystem/figParticleTracking.png Graphic file (type png)
+<use chapters/expSystem/figsExpSystem/figParticleTracking.png>
+Package pdftex.def Info: chapters/expSystem/figsExpSystem/figParticleTracking.png  used on input line 242.
+(pdftex.def)             Requested size: 448.0pt x 442.29272pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [108] [109 <./chapters/expSystem/figsExpSystem/figParticleTracking.png>]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [110]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [111]) (./chapters/conclusion/conclusion.tex
+Overfull \vbox (13.59999pt too high) has occurred while \output is active []
+
+ [112]
+Package lettrine.sty Info: Targeted height = 50.0838pt
+(lettrine.sty)             (for loversize=0, accent excluded),
+(lettrine.sty)             Lettrine height = 50.9744pt ( \color {Tan} {\textsc {T}});
+(lettrine.sty)             reported on input line 6.
+ [113
+
+] [114]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [115]
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [116] [117]) [118] (./chapters/appendices/app0A.tex) [119
+
+
+] [120
+
+] (/Users/fergusmoore/Documents/GitHub/PhD_Thesis/.texpadtmp/fergus_thesis.bbl [121
+
+
+] [122] [123] [124] [125] [126] [127] [128] [129] [130] [131] [132] [133] [134] [135] [136] [137] [138]
+LaTeX Font Info:    Trying to load font information for TS1+fnc on input line 930.
+ (/usr/local/texlive/2020/texmf-dist/tex/latex/fouriernc/ts1fnc.fd
+File: ts1fnc.fd 2005/12/13 font definitions for TS1/fnc.
+)
+LaTeX Font Info:    Font shape `TS1/fnc/m/it' will be
+(Font)              scaled to size 10.18341pt on input line 930.
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `fnc' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+ [139] [140] [141] [142] [143] [144] [145]) [146]
+
+Class memoir Warning: The material used in the headers is too large
+(27.2pt) for the given head height (13.6pt), it is recommended to
+either increase the head height or redesign the header
+(in both cases you will find help in the memoir manual). on input line 350.
+
+No complaints by nag.
+\tf@toc=\write7
+\openout7 = `fergus_thesis.toc'.
+
+\tf@lof=\write8
+\openout8 = `fergus_thesis.lof'.
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 350.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 350.
+(/Users/fergusmoore/Documents/GitHub/PhD_Thesis/.texpadtmp/fergus_thesis.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 350.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 350.
+Package rerunfilecheck Info: File `fergus_thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 3A97D41536EBBD7A3304C44E30CAAF91;6099.
+
+
+LaTeX Font Warning: Some font shapes were not available, defaults substituted.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 33826 strings out of 480608
+ 639745 string characters out of 5903630
+ 1068678 words of memory out of 5000000
+ 47765 multiletter control sequences out of 15000+600000
+ 668361 words of font info for 497 fonts, out of 8000000 for 9000
+ 1146 hyphenation exceptions out of 8191
+ 52i,13n,83p,15159b,1593s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmss17.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fourier/fourier-mex.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fourier/fourier-ml.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fourier/fourier-mlit.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fourier/fourier-mlitb.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/public/fourier/fourier-ms.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/ncntrsbk/uncb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/ncntrsbk/uncbi8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/ncntrsbk/uncr8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/ncntrsbk/uncri8a.pfb>
+Output written on /Users/fergusmoore/Documents/GitHub/PhD_Thesis/.texpadtmp/fergus_thesis.pdf (160 pages, 53720975 bytes).
+PDF statistics:
+ 2684 PDF objects out of 2984 (max. 8388607)
+ 2283 compressed objects within 23 object streams
+ 615 named destinations out of 1000 (max. 500000)
+ 50103 words of extra memory for PDF output out of 51595 (max. 10000000)
+

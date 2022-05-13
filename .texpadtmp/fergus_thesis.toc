@@ -1,0 +1,81 @@
+\babel@toc {english}{}
+\par \nobreak \mbox {}\hfill {\bfseries Page}\par \nobreak 
+\contentsline {chapter}{List of Figures}{xi}{section*.6}%
+\contentsline {chapter}{\chapternumberline {1}Active Matter}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Describing the dynamics of active systems}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}Phenomenology}{7}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Collective motion}{7}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Motility induced phase separation}{10}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Towards high density}{15}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Active matter in complex environments}{17}{section.1.3}%
+\contentsline {section}{\numberline {1.4}Active Janus particles}{20}{section.1.4}%
+\contentsline {subsection}{\numberline {1.4.1}Induced-charge electrophoresis (ICEP)}{21}{subsection.1.4.1}%
+\contentsline {subsection}{\numberline {1.4.2}Phase behaviour of active ICEP Janus particles}{23}{subsection.1.4.2}%
+\contentsline {chapter}{\chapternumberline {2}Confining Structures: Colloidal Gels and Randomly Pinned Spheres}{25}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Colloids}{25}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Colloidal interactions}{26}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Van der Waals interaction}{27}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}DLVO interaction}{27}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Hard sphere interactions}{29}{subsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.2.4}Depletion interaction}{31}{subsection.2.2.4}%
+\contentsline {section}{\numberline {2.3}Colloidal gels}{33}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}The colloid-polymer mixture}{34}{subsection.2.3.1}%
+\contentsline {section}{\numberline {2.4}Random media}{36}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}Structural analysis}{37}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}Dynamical analysis}{38}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Slow dynamics in random pinning liquids}{41}{subsection.2.4.3}%
+\contentsline {chapter}{\chapternumberline {3}Experimental Methods}{43}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Laser scanning confocal microscopy}{43}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Particle synthesis}{44}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Synthesis of fluorescent silica nanoparticle cores}{44}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Synthesis of core-shell silica nanoparticles}{45}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Synthesis of Janus particles}{47}{subsection.3.2.3}%
+\contentsline {section}{\numberline {3.3}Particle tracking}{47}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Chord length}{48}{section.3.4}%
+\contentsline {chapter}{\chapternumberline {4}Crystallisation and Polymorph Selection in Active Brownian Particles}{51}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Introduction}{52}{section.4.1}%
+\contentsline {section}{\numberline {4.2}Methods}{54}{section.4.2}%
+\contentsline {subsection}{\numberline {4.2.1}Computer simulations}{54}{subsection.4.2.1}%
+\contentsline {subsection}{\numberline {4.2.2}Dynamical analysis}{56}{subsection.4.2.2}%
+\contentsline {subsection}{\numberline {4.2.3}Topological cluster classification analysis}{56}{subsection.4.2.3}%
+\contentsline {section}{\numberline {4.3}Results}{57}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}State diagram}{57}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}Dynamical and structural response of the active WCA fluid to activity}{59}{subsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.3.3}Crystal growth and activity}{61}{subsection.4.3.3}%
+\contentsline {section}{\numberline {4.4}Conclusion}{65}{section.4.4}%
+\contentsline {chapter}{\chapternumberline {5}Active Brownian Spheres in Random and Porous Environments}{67}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Introduction}{68}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Model and methods}{70}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}Active particles}{70}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}Complex environments}{71}{subsection.5.2.2}%
+\contentsline {subsection}{\numberline {5.2.3}Dynamical analysis}{74}{subsection.5.2.3}%
+\contentsline {section}{\numberline {5.3}Numerical results}{75}{section.5.3}%
+\contentsline {subsection}{\numberline {5.3.1}Low $\operatorname {\mathit {P\kern -.08em e}}$: crystal suppression and heterogeneous dynamics}{75}{subsection.5.3.1}%
+\contentsline {subsection}{\numberline {5.3.2}Intermediate $\operatorname {\mathit {P\kern -.08em e}}$: MIPS in random environments}{78}{subsection.5.3.2}%
+\contentsline {subsection}{\numberline {5.3.3}Local structure}{86}{subsection.5.3.3}%
+\contentsline {subsection}{\numberline {5.3.4}Reentrant mixing}{87}{subsection.5.3.4}%
+\contentsline {section}{\numberline {5.4}Conclusion}{88}{section.5.4}%
+\contentsline {chapter}{\chapternumberline {6}Real Space Analysis of Active Colloids in a 3D Complex Environment}{91}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Introduction}{91}{section.6.1}%
+\contentsline {section}{\numberline {6.2}Methods}{94}{section.6.2}%
+\contentsline {subsection}{\numberline {6.2.1}Sample cell}{94}{subsection.6.2.1}%
+\contentsline {subsection}{\numberline {6.2.2}Assembly of the colloidal gel}{96}{subsection.6.2.2}%
+\contentsline {subsection}{\numberline {6.2.3}Sintering the colloidal gel}{99}{subsection.6.2.3}%
+\contentsline {subsection}{\numberline {6.2.4}Adding Janus particles to the sample}{102}{subsection.6.2.4}%
+\contentsline {subsection}{\numberline {6.2.5}Electric field}{103}{subsection.6.2.5}%
+\contentsline {section}{\numberline {6.3}Results and discussion}{103}{section.6.3}%
+\contentsline {subsection}{\numberline {6.3.1}Brownian Janus particles in a gel}{103}{subsection.6.3.1}%
+\contentsline {subsection}{\numberline {6.3.2}Active Janus particles in a gel}{106}{subsection.6.3.2}%
+\contentsline {subsection}{\numberline {6.3.3}3D particle tracking of a sintered gel}{110}{subsection.6.3.3}%
+\contentsline {section}{\numberline {6.4}Conclusion and future Work}{111}{section.6.4}%
+\contentsline {chapter}{\chapternumberline {7}Conclusion}{113}{chapter.7}%
+\contentsline {section}{\numberline {7.1}Crystallisation and polymorph selection in active Brownian particles}{113}{section.7.1}%
+\contentsline {section}{\numberline {7.2}Active Brownian spheres in random and porous environments}{114}{section.7.2}%
+\contentsline {section}{\numberline {7.3}Real-space analysis of active colloids in a complex environment}{116}{section.7.3}%
+\contentsline {section}{\numberline {7.4}General conclusion}{118}{section.7.4}%
+\contentsline {appendix}{\chapternumberline {A}Appendix}{119}{appendix.A}%
+\contentsline {section}{\numberline {A.1}Supplementary material}{119}{section.A.1}%
+\contentsline {subsection}{\numberline {A.1.1}Brownian motion of Janus particles inside a colloidal gel}{119}{subsection.A.1.1}%
+\contentsline {subsection}{\numberline {A.1.2}Active Janus particles inside a colloidal gel at low field strength}{119}{subsection.A.1.2}%
+\contentsline {subsection}{\numberline {A.1.3}Active Janus particles inside a colloidal gel at high field strength}{119}{subsection.A.1.3}%
+\contentsline {chapter}{Bibliography}{121}{appendix*.8}%
